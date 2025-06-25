@@ -81,7 +81,3 @@ Place your data file in the `/public` directory and update the fetch URL in `App
 - D3.js v7
 - Vite
 - ESLint
-
-## License
-
-MIT
