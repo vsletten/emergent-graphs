@@ -1,0 +1,12 @@
+{
+    "llm_provider": "anthropic",
+    "model_name": "claude-3-7-sonnet-20250219",
+    "topic": "Artificial Intelligence",
+    "initial_prompt": "Describe a hypothetical mechanism by which an LLM could become sentient or self-aware.",
+    "max_iterations": 10,
+    "concept_similarity_threshold": 0.1,
+    "prompt_similarity_threshold": 0.05,
+    "max_graph_nodes": 1000,
+    "temperature": 0.7,
+    "output_dir": "./output"
+}

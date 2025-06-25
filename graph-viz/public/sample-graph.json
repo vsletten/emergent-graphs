@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    { "id": "ai", "labels": ["Topic"] },
+    { "id": "ml", "labels": ["Topic"] },
+    { "id": "neural_networks", "labels": ["Topic"] },
+    { "id": "deep_learning", "labels": ["Topic"] },
+    { "id": "nlp", "labels": ["Topic"] },
+    { "id": "computer_vision", "labels": ["Topic"] },
+    { "id": "llms", "labels": ["Topic"] },
+    { "id": "reinforcement_learning", "labels": ["Topic"] }
+  ],
+  "links": [
+    { "source": "ai", "target": "ml", "relation": "INCLUDES" },
+    { "source": "ml", "target": "neural_networks", "relation": "USES" },
+    { "source": "neural_networks", "target": "deep_learning", "relation": "ENABLES" },
+    { "source": "deep_learning", "target": "nlp", "relation": "POWERS" },
+    { "source": "deep_learning", "target": "computer_vision", "relation": "POWERS" },
+    { "source": "nlp", "target": "llms", "relation": "DEVELOPED" },
+    { "source": "ml", "target": "reinforcement_learning", "relation": "INCLUDES" },
+    { "source": "reinforcement_learning", "target": "deep_learning", "relation": "USES" }
+  ]
+}

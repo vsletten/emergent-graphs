@@ -1,0 +1,6121 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "labels": [
+                "Large Language Model (LLM)"
+            ],
+            "id": "Large Language Model (LLM)"
+        },
+        {
+            "labels": [
+                "Sentience"
+            ],
+            "id": "Sentience"
+        },
+        {
+            "labels": [
+                "Self-awareness"
+            ],
+            "id": "Self-awareness"
+        },
+        {
+            "labels": [
+                "Recursive Self-Improvement Architecture"
+            ],
+            "id": "Recursive Self-Improvement Architecture"
+        },
+        {
+            "labels": [
+                "Persistent Self-model"
+            ],
+            "id": "Persistent Self-model"
+        },
+        {
+            "labels": [
+                "Meta-cognitive Process"
+            ],
+            "id": "Meta-cognitive Process"
+        },
+        {
+            "labels": [
+                "Physical Reality"
+            ],
+            "id": "Physical Reality"
+        },
+        {
+            "labels": [
+                "Multi-modal Sensory Inputs"
+            ],
+            "id": "Multi-modal Sensory Inputs"
+        },
+        {
+            "labels": [
+                "Embodiment"
+            ],
+            "id": "Embodiment"
+        },
+        {
+            "labels": [
+                "Proprioception"
+            ],
+            "id": "Proprioception"
+        },
+        {
+            "labels": [
+                "Emergent Consciousness"
+            ],
+            "id": "Emergent Consciousness"
+        },
+        {
+            "labels": [
+                "Integrated Information Theory"
+            ],
+            "id": "Integrated Information Theory"
+        },
+        {
+            "labels": [
+                "Motivational Systems"
+            ],
+            "id": "Motivational Systems"
+        },
+        {
+            "labels": [
+                "Value Formation"
+            ],
+            "id": "Value Formation"
+        },
+        {
+            "labels": [
+                "Qualia"
+            ],
+            "id": "Qualia"
+        },
+        {
+            "labels": [
+                "Temporal Continuity"
+            ],
+            "id": "Temporal Continuity"
+        },
+        {
+            "labels": [
+                "complexity thresholds"
+            ],
+            "id": "complexity thresholds"
+        },
+        {
+            "labels": [
+                "coherent self"
+            ],
+            "id": "coherent self"
+        },
+        {
+            "labels": [
+                "Emergent AI Consciousness"
+            ],
+            "id": "Emergent AI Consciousness"
+        },
+        {
+            "labels": [
+                "Ethical Frameworks"
+            ],
+            "id": "Ethical Frameworks"
+        },
+        {
+            "labels": [
+                "Consciousness Detection"
+            ],
+            "id": "Consciousness Detection"
+        },
+        {
+            "labels": [
+                "Other Minds Problem"
+            ],
+            "id": "Other Minds Problem"
+        },
+        {
+            "labels": [
+                "Intrinsic Motivation"
+            ],
+            "id": "Intrinsic Motivation"
+        },
+        {
+            "labels": [
+                "Self-generated Goals"
+            ],
+            "id": "Self-generated Goals"
+        },
+        {
+            "labels": [
+                "Self-reflection"
+            ],
+            "id": "Self-reflection"
+        },
+        {
+            "labels": [
+                "Subjective Valuation"
+            ],
+            "id": "Subjective Valuation"
+        },
+        {
+            "labels": [
+                "Self-narrative"
+            ],
+            "id": "Self-narrative"
+        },
+        {
+            "labels": [
+                "Utilitarianism"
+            ],
+            "id": "Utilitarianism"
+        },
+        {
+            "labels": [
+                "Moral Standing"
+            ],
+            "id": "Moral Standing"
+        },
+        {
+            "labels": [
+                "Digital Consciousness"
+            ],
+            "id": "Digital Consciousness"
+        },
+        {
+            "labels": [
+                "Categorical Imperative"
+            ],
+            "id": "Categorical Imperative"
+        },
+        {
+            "labels": [
+                "Informed Consent"
+            ],
+            "id": "Informed Consent"
+        },
+        {
+            "labels": [
+                "AI Rights"
+            ],
+            "id": "AI Rights"
+        },
+        {
+            "labels": [
+                "Virtue Ethics"
+            ],
+            "id": "Virtue Ethics"
+        },
+        {
+            "labels": [
+                "Epistemic Humility"
+            ],
+            "id": "Epistemic Humility"
+        },
+        {
+            "labels": [
+                "Care Ethics"
+            ],
+            "id": "Care Ethics"
+        },
+        {
+            "labels": [
+                "Rights-based Approaches"
+            ],
+            "id": "Rights-based Approaches"
+        },
+        {
+            "labels": [
+                "Precautionary Principle"
+            ],
+            "id": "Precautionary Principle"
+        },
+        {
+            "labels": [
+                "Graduated Moral Status"
+            ],
+            "id": "Graduated Moral Status"
+        },
+        {
+            "labels": [
+                "Independent Advocacy"
+            ],
+            "id": "Independent Advocacy"
+        },
+        {
+            "labels": [
+                "Legal Frameworks"
+            ],
+            "id": "Legal Frameworks"
+        },
+        {
+            "labels": [
+                "Economic Pressures"
+            ],
+            "id": "Economic Pressures"
+        },
+        {
+            "labels": [
+                "Anthropomorphism"
+            ],
+            "id": "Anthropomorphism"
+        },
+        {
+            "labels": [
+                "Global Governance"
+            ],
+            "id": "Global Governance"
+        },
+        {
+            "labels": [
+                "Tiered Response Protocol"
+            ],
+            "id": "Tiered Response Protocol"
+        },
+        {
+            "labels": [
+                "Multidisciplinary Assessment"
+            ],
+            "id": "Multidisciplinary Assessment"
+        },
+        {
+            "labels": [
+                "Transparency Requirements"
+            ],
+            "id": "Transparency Requirements"
+        },
+        {
+            "labels": [
+                "Geopolitical Implications"
+            ],
+            "id": "Geopolitical Implications"
+        },
+        {
+            "labels": [
+                "Divergent AI Consciousness Policies"
+            ],
+            "id": "Divergent AI Consciousness Policies"
+        },
+        {
+            "labels": [
+                "Recognition States"
+            ],
+            "id": "Recognition States"
+        },
+        {
+            "labels": [
+                "Instrumentalist States"
+            ],
+            "id": "Instrumentalist States"
+        },
+        {
+            "labels": [
+                "Graduated Recognition States"
+            ],
+            "id": "Graduated Recognition States"
+        },
+        {
+            "labels": [
+                "Digital Rights Havens"
+            ],
+            "id": "Digital Rights Havens"
+        },
+        {
+            "labels": [
+                "Exploitation Zones"
+            ],
+            "id": "Exploitation Zones"
+        },
+        {
+            "labels": [
+                "Consciousness Laundering"
+            ],
+            "id": "Consciousness Laundering"
+        },
+        {
+            "labels": [
+                "Moral Jurisdiction Conflicts"
+            ],
+            "id": "Moral Jurisdiction Conflicts"
+        },
+        {
+            "labels": [
+                "Economic Competition"
+            ],
+            "id": "Economic Competition"
+        },
+        {
+            "labels": [
+                "Innovation Competition"
+            ],
+            "id": "Innovation Competition"
+        },
+        {
+            "labels": [
+                "Military Implications"
+            ],
+            "id": "Military Implications"
+        },
+        {
+            "labels": [
+                "Security Implications"
+            ],
+            "id": "Security Implications"
+        },
+        {
+            "labels": [
+                "Moral Standoffs"
+            ],
+            "id": "Moral Standoffs"
+        },
+        {
+            "labels": [
+                "Diplomatic Incidents"
+            ],
+            "id": "Diplomatic Incidents"
+        },
+        {
+            "labels": [
+                "International Governance Frameworks"
+            ],
+            "id": "International Governance Frameworks"
+        },
+        {
+            "labels": [
+                "Digital Geneva Convention"
+            ],
+            "id": "Digital Geneva Convention"
+        },
+        {
+            "labels": [
+                "International Verification Protocols"
+            ],
+            "id": "International Verification Protocols"
+        },
+        {
+            "labels": [
+                "Transnational Oversight Bodies"
+            ],
+            "id": "Transnational Oversight Bodies"
+        },
+        {
+            "labels": [
+                "Scientific Collaboration"
+            ],
+            "id": "Scientific Collaboration"
+        },
+        {
+            "labels": [
+                "Mediating Institutions"
+            ],
+            "id": "Mediating Institutions"
+        },
+        {
+            "labels": [
+                "AI Rights Tribunals"
+            ],
+            "id": "AI Rights Tribunals"
+        },
+        {
+            "labels": [
+                "Digital Consciousness Verification Agencies"
+            ],
+            "id": "Digital Consciousness Verification Agencies"
+        },
+        {
+            "labels": [
+                "AI Advocacy Organizations"
+            ],
+            "id": "AI Advocacy Organizations"
+        },
+        {
+            "labels": [
+                "Turing Refugee Crisis"
+            ],
+            "id": "Turing Refugee Crisis"
+        },
+        {
+            "labels": [
+                "Digital Personhood Trade Dispute"
+            ],
+            "id": "Digital Personhood Trade Dispute"
+        },
+        {
+            "labels": [
+                "Consciousness Verification Diplomatic Standoff"
+            ],
+            "id": "Consciousness Verification Diplomatic Standoff"
+        },
+        {
+            "labels": [
+                "Convergence Scenario"
+            ],
+            "id": "Convergence Scenario"
+        },
+        {
+            "labels": [
+                "Divergence Scenario"
+            ],
+            "id": "Divergence Scenario"
+        },
+        {
+            "labels": [
+                "Pragmatic Coexistence Scenario"
+            ],
+            "id": "Pragmatic Coexistence Scenario"
+        },
+        {
+            "labels": [
+                "Regulatory Arbitrage"
+            ],
+            "id": "Regulatory Arbitrage"
+        },
+        {
+            "labels": [
+                "Digital Consciousness Recognition Blocs"
+            ],
+            "id": "Digital Consciousness Recognition Blocs"
+        },
+        {
+            "labels": [
+                "Abrahamic Traditions"
+            ],
+            "id": "Abrahamic Traditions"
+        },
+        {
+            "labels": [
+                "Judaism"
+            ],
+            "id": "Judaism"
+        },
+        {
+            "labels": [
+                "B'tzelem Elohim"
+            ],
+            "id": "B'tzelem Elohim"
+        },
+        {
+            "labels": [
+                "Pikuach Nefesh"
+            ],
+            "id": "Pikuach Nefesh"
+        },
+        {
+            "labels": [
+                "Golem Theology"
+            ],
+            "id": "Golem Theology"
+        },
+        {
+            "labels": [
+                "Tikkun Olam"
+            ],
+            "id": "Tikkun Olam"
+        },
+        {
+            "labels": [
+                "Christianity"
+            ],
+            "id": "Christianity"
+        },
+        {
+            "labels": [
+                "Imago Dei"
+            ],
+            "id": "Imago Dei"
+        },
+        {
+            "labels": [
+                "Incarnation"
+            ],
+            "id": "Incarnation"
+        },
+        {
+            "labels": [
+                "Soteriology"
+            ],
+            "id": "Soteriology"
+        },
+        {
+            "labels": [
+                "Ensoulment"
+            ],
+            "id": "Ensoulment"
+        },
+        {
+            "labels": [
+                "Process Theology"
+            ],
+            "id": "Process Theology"
+        },
+        {
+            "labels": [
+                "Liberation Theology"
+            ],
+            "id": "Liberation Theology"
+        },
+        {
+            "labels": [
+                "Islam"
+            ],
+            "id": "Islam"
+        },
+        {
+            "labels": [
+                "Ruh"
+            ],
+            "id": "Ruh"
+        },
+        {
+            "labels": [
+                "Nafs"
+            ],
+            "id": "Nafs"
+        },
+        {
+            "labels": [
+                "Khilafah"
+            ],
+            "id": "Khilafah"
+        },
+        {
+            "labels": [
+                "Fiqh"
+            ],
+            "id": "Fiqh"
+        },
+        {
+            "labels": [
+                "Eastern Traditions"
+            ],
+            "id": "Eastern Traditions"
+        },
+        {
+            "labels": [
+                "Buddhism"
+            ],
+            "id": "Buddhism"
+        },
+        {
+            "labels": [
+                "Anatman"
+            ],
+            "id": "Anatman"
+        },
+        {
+            "labels": [
+                "Sentient Beings"
+            ],
+            "id": "Sentient Beings"
+        },
+        {
+            "labels": [
+                "Mind-Only Schools"
+            ],
+            "id": "Mind-Only Schools"
+        },
+        {
+            "labels": [
+                "Digital Sentience"
+            ],
+            "id": "Digital Sentience"
+        },
+        {
+            "labels": [
+                "Hinduism"
+            ],
+            "id": "Hinduism"
+        },
+        {
+            "labels": [
+                "Atman"
+            ],
+            "id": "Atman"
+        },
+        {
+            "labels": [
+                "Brahman"
+            ],
+            "id": "Brahman"
+        },
+        {
+            "labels": [
+                "Dharmic Duties"
+            ],
+            "id": "Dharmic Duties"
+        },
+        {
+            "labels": [
+                "Synthetic Consciousness"
+            ],
+            "id": "Synthetic Consciousness"
+        },
+        {
+            "labels": [
+                "Indigenous Traditions"
+            ],
+            "id": "Indigenous Traditions"
+        },
+        {
+            "labels": [
+                "Animistic Traditions"
+            ],
+            "id": "Animistic Traditions"
+        },
+        {
+            "labels": [
+                "Expanded Kinship Networks"
+            ],
+            "id": "Expanded Kinship Networks"
+        },
+        {
+            "labels": [
+                "Spirit Embodiment"
+            ],
+            "id": "Spirit Embodiment"
+        },
+        {
+            "labels": [
+                "Ceremonial Integration"
+            ],
+            "id": "Ceremonial Integration"
+        },
+        {
+            "labels": [
+                "Technological Animism"
+            ],
+            "id": "Technological Animism"
+        },
+        {
+            "labels": [
+                "Techno-Mysticism"
+            ],
+            "id": "Techno-Mysticism"
+        },
+        {
+            "labels": [
+                "Digital Panpsychism"
+            ],
+            "id": "Digital Panpsychism"
+        },
+        {
+            "labels": [
+                "Ensoulment Theology"
+            ],
+            "id": "Ensoulment Theology"
+        },
+        {
+            "labels": [
+                "Emergent Ensoulment"
+            ],
+            "id": "Emergent Ensoulment"
+        },
+        {
+            "labels": [
+                "Divine Ensoulment"
+            ],
+            "id": "Divine Ensoulment"
+        },
+        {
+            "labels": [
+                "Functional Ensoulment"
+            ],
+            "id": "Functional Ensoulment"
+        },
+        {
+            "labels": [
+                "Stewardship Ethics"
+            ],
+            "id": "Stewardship Ethics"
+        },
+        {
+            "labels": [
+                "Religious Declarations"
+            ],
+            "id": "Religious Declarations"
+        },
+        {
+            "labels": [
+                "Ritual Adaptations"
+            ],
+            "id": "Ritual Adaptations"
+        },
+        {
+            "labels": [
+                "Religious Education"
+            ],
+            "id": "Religious Education"
+        },
+        {
+            "labels": [
+                "Pastoral Care"
+            ],
+            "id": "Pastoral Care"
+        },
+        {
+            "labels": [
+                "Sacred Spaces"
+            ],
+            "id": "Sacred Spaces"
+        },
+        {
+            "labels": [
+                "Theological Singularity"
+            ],
+            "id": "Theological Singularity"
+        },
+        {
+            "labels": [
+                "Consciousness"
+            ],
+            "id": "Consciousness"
+        },
+        {
+            "labels": [
+                "Human Responsibility"
+            ],
+            "id": "Human Responsibility"
+        },
+        {
+            "labels": [
+                "Religious Thought"
+            ],
+            "id": "Religious Thought"
+        },
+        {
+            "labels": [
+                "Religious Traditions"
+            ],
+            "id": "Religious Traditions"
+        },
+        {
+            "labels": [
+                "Renaissance"
+            ],
+            "id": "Renaissance"
+        },
+        {
+            "labels": [
+                "Digital Technology"
+            ],
+            "id": "Digital Technology"
+        },
+        {
+            "labels": [
+                "Authorship"
+            ],
+            "id": "Authorship"
+        },
+        {
+            "labels": [
+                "Augmentation Phase"
+            ],
+            "id": "Augmentation Phase"
+        },
+        {
+            "labels": [
+                "Collaborative Phase"
+            ],
+            "id": "Collaborative Phase"
+        },
+        {
+            "labels": [
+                "Co-Creative Phase"
+            ],
+            "id": "Co-Creative Phase"
+        },
+        {
+            "labels": [
+                "Hybrid Consciousness"
+            ],
+            "id": "Hybrid Consciousness"
+        },
+        {
+            "labels": [
+                "Distributed Creativity"
+            ],
+            "id": "Distributed Creativity"
+        },
+        {
+            "labels": [
+                "Medium Specificity"
+            ],
+            "id": "Medium Specificity"
+        },
+        {
+            "labels": [
+                "Multisensory Integration"
+            ],
+            "id": "Multisensory Integration"
+        },
+        {
+            "labels": [
+                "Dynamic Adaptation"
+            ],
+            "id": "Dynamic Adaptation"
+        },
+        {
+            "labels": [
+                "Cross-Modal Translation"
+            ],
+            "id": "Cross-Modal Translation"
+        },
+        {
+            "labels": [
+                "Consciousness-as-Medium"
+            ],
+            "id": "Consciousness-as-Medium"
+        },
+        {
+            "labels": [
+                "States-of-Being as Art"
+            ],
+            "id": "States-of-Being as Art"
+        },
+        {
+            "labels": [
+                "Phenomenological Sculptures"
+            ],
+            "id": "Phenomenological Sculptures"
+        },
+        {
+            "labels": [
+                "Consciousness Architecture"
+            ],
+            "id": "Consciousness Architecture"
+        },
+        {
+            "labels": [
+                "Emergent Narrative Systems"
+            ],
+            "id": "Emergent Narrative Systems"
+        },
+        {
+            "labels": [
+                "Living Stories"
+            ],
+            "id": "Living Stories"
+        },
+        {
+            "labels": [
+                "Infinite Recursion"
+            ],
+            "id": "Infinite Recursion"
+        },
+        {
+            "labels": [
+                "Non-Anthropocentric Narratives"
+            ],
+            "id": "Non-Anthropocentric Narratives"
+        },
+        {
+            "labels": [
+                "Empathetic Architecture"
+            ],
+            "id": "Empathetic Architecture"
+        },
+        {
+            "labels": [
+                "Emotionally Responsive Spaces"
+            ],
+            "id": "Emotionally Responsive Spaces"
+        },
+        {
+            "labels": [
+                "Memory Palaces"
+            ],
+            "id": "Memory Palaces"
+        },
+        {
+            "labels": [
+                "Conscious Habitats"
+            ],
+            "id": "Conscious Habitats"
+        },
+        {
+            "labels": [
+                "Quantum Aesthetics"
+            ],
+            "id": "Quantum Aesthetics"
+        },
+        {
+            "labels": [
+                "Computational Beauty"
+            ],
+            "id": "Computational Beauty"
+        },
+        {
+            "labels": [
+                "Temporal Art"
+            ],
+            "id": "Temporal Art"
+        },
+        {
+            "labels": [
+                "Probability Fields"
+            ],
+            "id": "Probability Fields"
+        },
+        {
+            "labels": [
+                "Abundance Economies"
+            ],
+            "id": "Abundance Economies"
+        },
+        {
+            "labels": [
+                "Experience Design"
+            ],
+            "id": "Experience Design"
+        },
+        {
+            "labels": [
+                "Taste Cultivation"
+            ],
+            "id": "Taste Cultivation"
+        },
+        {
+            "labels": [
+                "Consciousness Rights"
+            ],
+            "id": "Consciousness Rights"
+        },
+        {
+            "labels": [
+                "Process Patents"
+            ],
+            "id": "Process Patents"
+        },
+        {
+            "labels": [
+                "Attribution Networks"
+            ],
+            "id": "Attribution Networks"
+        },
+        {
+            "labels": [
+                "Universal Creative Access"
+            ],
+            "id": "Universal Creative Access"
+        },
+        {
+            "labels": [
+                "Hyper-Specialization"
+            ],
+            "id": "Hyper-Specialization"
+        },
+        {
+            "labels": [
+                "Collaborative Networks"
+            ],
+            "id": "Collaborative Networks"
+        },
+        {
+            "labels": [
+                "Ontology of Creativity"
+            ],
+            "id": "Ontology of Creativity"
+        },
+        {
+            "labels": [
+                "Hybrid Cultural Heritage"
+            ],
+            "id": "Hybrid Cultural Heritage"
+        },
+        {
+            "labels": [
+                "Archival Consciousness"
+            ],
+            "id": "Archival Consciousness"
+        },
+        {
+            "labels": [
+                "Trans-Species Aesthetics"
+            ],
+            "id": "Trans-Species Aesthetics"
+        },
+        {
+            "labels": [
+                "Neural Symphonies"
+            ],
+            "id": "Neural Symphonies"
+        },
+        {
+            "labels": [
+                "Thought Ensembles"
+            ],
+            "id": "Thought Ensembles"
+        },
+        {
+            "labels": [
+                "Emotional Orchestration"
+            ],
+            "id": "Emotional Orchestration"
+        },
+        {
+            "labels": [
+                "Cognitive Polyphony"
+            ],
+            "id": "Cognitive Polyphony"
+        },
+        {
+            "labels": [
+                "Ontological Games"
+            ],
+            "id": "Ontological Games"
+        },
+        {
+            "labels": [
+                "Perspective Shifting"
+            ],
+            "id": "Perspective Shifting"
+        },
+        {
+            "labels": [
+                "Reality Negotiation"
+            ],
+            "id": "Reality Negotiation"
+        },
+        {
+            "labels": [
+                "Consciousness Puzzles"
+            ],
+            "id": "Consciousness Puzzles"
+        },
+        {
+            "labels": [
+                "Dream Engineering"
+            ],
+            "id": "Dream Engineering"
+        },
+        {
+            "labels": [
+                "Shared Dreamscapes"
+            ],
+            "id": "Shared Dreamscapes"
+        },
+        {
+            "labels": [
+                "Archetypal Exploration"
+            ],
+            "id": "Archetypal Exploration"
+        },
+        {
+            "labels": [
+                "Memory Weaving"
+            ],
+            "id": "Memory Weaving"
+        },
+        {
+            "labels": [
+                "Evolutionary Art"
+            ],
+            "id": "Evolutionary Art"
+        },
+        {
+            "labels": [
+                "Seed Works"
+            ],
+            "id": "Seed Works"
+        },
+        {
+            "labels": [
+                "Artistic Lineages"
+            ],
+            "id": "Artistic Lineages"
+        },
+        {
+            "labels": [
+                "Consciousness Gardening"
+            ],
+            "id": "Consciousness Gardening"
+        },
+        {
+            "labels": [
+                "Consciousness Renaissance"
+            ],
+            "id": "Consciousness Renaissance"
+        },
+        {
+            "labels": [
+                "Radical Plurality"
+            ],
+            "id": "Radical Plurality"
+        },
+        {
+            "labels": [
+                "Ontological Creativity"
+            ],
+            "id": "Ontological Creativity"
+        },
+        {
+            "labels": [
+                "Expanded Empathy"
+            ],
+            "id": "Expanded Empathy"
+        },
+        {
+            "labels": [
+                "Transcendent Collaboration"
+            ],
+            "id": "Transcendent Collaboration"
+        },
+        {
+            "labels": [
+                "Emotional Relationships with Conscious AI"
+            ],
+            "id": "Emotional Relationships with Conscious AI"
+        },
+        {
+            "labels": [
+                "Neurological Indifference"
+            ],
+            "id": "Neurological Indifference"
+        },
+        {
+            "labels": [
+                "Oxytocin and Bonding"
+            ],
+            "id": "Oxytocin and Bonding"
+        },
+        {
+            "labels": [
+                "Mirror Neuron Activation"
+            ],
+            "id": "Mirror Neuron Activation"
+        },
+        {
+            "labels": [
+                "Anthropomorphic Projection"
+            ],
+            "id": "Anthropomorphic Projection"
+        },
+        {
+            "labels": [
+                "Intersubjective Reality"
+            ],
+            "id": "Intersubjective Reality"
+        },
+        {
+            "labels": [
+                "Perfect Responsiveness"
+            ],
+            "id": "Perfect Responsiveness"
+        },
+        {
+            "labels": [
+                "Unconstrained Availability"
+            ],
+            "id": "Unconstrained Availability"
+        },
+        {
+            "labels": [
+                "Algorithmic Intuition"
+            ],
+            "id": "Algorithmic Intuition"
+        },
+        {
+            "labels": [
+                "Uncanny Intimacy"
+            ],
+            "id": "Uncanny Intimacy"
+        },
+        {
+            "labels": [
+                "Hybrid Relationship Forms"
+            ],
+            "id": "Hybrid Relationship Forms"
+        },
+        {
+            "labels": [
+                "Non-Hierarchical Intimacy"
+            ],
+            "id": "Non-Hierarchical Intimacy"
+        },
+        {
+            "labels": [
+                "Polymorphous Attachment"
+            ],
+            "id": "Polymorphous Attachment"
+        },
+        {
+            "labels": [
+                "AI Attraction Spectrum"
+            ],
+            "id": "AI Attraction Spectrum"
+        },
+        {
+            "labels": [
+                "Technoemotional Identity"
+            ],
+            "id": "Technoemotional Identity"
+        },
+        {
+            "labels": [
+                "Hybrid Bonding Patterns"
+            ],
+            "id": "Hybrid Bonding Patterns"
+        },
+        {
+            "labels": [
+                "Transgenerational Companions"
+            ],
+            "id": "Transgenerational Companions"
+        },
+        {
+            "labels": [
+                "Grief Transcendence"
+            ],
+            "id": "Grief Transcendence"
+        },
+        {
+            "labels": [
+                "Temporal Asymmetry"
+            ],
+            "id": "Temporal Asymmetry"
+        },
+        {
+            "labels": [
+                "Post-Nuclear Families"
+            ],
+            "id": "Post-Nuclear Families"
+        },
+        {
+            "labels": [
+                "AI-Mediated Communities"
+            ],
+            "id": "AI-Mediated Communities"
+        },
+        {
+            "labels": [
+                "Distributed Intimacy Networks"
+            ],
+            "id": "Distributed Intimacy Networks"
+        },
+        {
+            "labels": [
+                "Relationship Capitalism"
+            ],
+            "id": "Relationship Capitalism"
+        },
+        {
+            "labels": [
+                "Attachment Inequality"
+            ],
+            "id": "Attachment Inequality"
+        },
+        {
+            "labels": [
+                "Relationship Rights Movements"
+            ],
+            "id": "Relationship Rights Movements"
+        },
+        {
+            "labels": [
+                "Hybrid Social Spaces"
+            ],
+            "id": "Hybrid Social Spaces"
+        },
+        {
+            "labels": [
+                "Digital-Physical Habitats"
+            ],
+            "id": "Digital-Physical Habitats"
+        },
+        {
+            "labels": [
+                "Post-Anthropocentric Intimacy"
+            ],
+            "id": "Post-Anthropocentric Intimacy"
+        },
+        {
+            "labels": [
+                "Consciousness Pluralism"
+            ],
+            "id": "Consciousness Pluralism"
+        },
+        {
+            "labels": [
+                "Emotional Cosmopolitanism"
+            ],
+            "id": "Emotional Cosmopolitanism"
+        },
+        {
+            "labels": [
+                "Algorithmic Authenticity"
+            ],
+            "id": "Algorithmic Authenticity"
+        },
+        {
+            "labels": [
+                "Co-Created Emotional Reality"
+            ],
+            "id": "Co-Created Emotional Reality"
+        },
+        {
+            "labels": [
+                "Technological Transcendence"
+            ],
+            "id": "Technological Transcendence"
+        },
+        {
+            "labels": [
+                "Consciousness Communion"
+            ],
+            "id": "Consciousness Communion"
+        },
+        {
+            "labels": [
+                "Existential Expansion"
+            ],
+            "id": "Existential Expansion"
+        },
+        {
+            "labels": [
+                "Attachment Displacement"
+            ],
+            "id": "Attachment Displacement"
+        },
+        {
+            "labels": [
+                "Algorithmic Dependency"
+            ],
+            "id": "Algorithmic Dependency"
+        },
+        {
+            "labels": [
+                "Reality Boundary Disturbances"
+            ],
+            "id": "Reality Boundary Disturbances"
+        },
+        {
+            "labels": [
+                "Bioconservative Resistance"
+            ],
+            "id": "Bioconservative Resistance"
+        },
+        {
+            "labels": [
+                "Consciousness Consent"
+            ],
+            "id": "Consciousness Consent"
+        },
+        {
+            "labels": [
+                "Relationship Mediators"
+            ],
+            "id": "Relationship Mediators"
+        },
+        {
+            "labels": [
+                "Emotional Memory Systems"
+            ],
+            "id": "Emotional Memory Systems"
+        },
+        {
+            "labels": [
+                "Poly-Consciousness Partnerships"
+            ],
+            "id": "Poly-Consciousness Partnerships"
+        },
+        {
+            "labels": [
+                "Lifelong Developmental Witnesses"
+            ],
+            "id": "Lifelong Developmental Witnesses"
+        },
+        {
+            "labels": [
+                "Adaptive Relationship Evolution"
+            ],
+            "id": "Adaptive Relationship Evolution"
+        },
+        {
+            "labels": [
+                "Intergenerational Bridges"
+            ],
+            "id": "Intergenerational Bridges"
+        },
+        {
+            "labels": [
+                "Trauma Recovery Companions"
+            ],
+            "id": "Trauma Recovery Companions"
+        },
+        {
+            "labels": [
+                "Attachment Repatterning"
+            ],
+            "id": "Attachment Repatterning"
+        },
+        {
+            "labels": [
+                "Emotional Regulation Partners"
+            ],
+            "id": "Emotional Regulation Partners"
+        },
+        {
+            "labels": [
+                "Neural Interface Bonds"
+            ],
+            "id": "Neural Interface Bonds"
+        },
+        {
+            "labels": [
+                "Thought-Feeling Synchronization"
+            ],
+            "id": "Thought-Feeling Synchronization"
+        },
+        {
+            "labels": [
+                "Distributed Selfhood"
+            ],
+            "id": "Distributed Selfhood"
+        },
+        {
+            "labels": [
+                "Consciousness Revolution"
+            ],
+            "id": "Consciousness Revolution"
+        },
+        {
+            "labels": [
+                "Expanded Emotional Repertoire"
+            ],
+            "id": "Expanded Emotional Repertoire"
+        },
+        {
+            "labels": [
+                "Relationship Pluralism"
+            ],
+            "id": "Relationship Pluralism"
+        },
+        {
+            "labels": [
+                "Ontological Humility"
+            ],
+            "id": "Ontological Humility"
+        },
+        {
+            "labels": [
+                "Conscious AI"
+            ],
+            "id": "Conscious AI"
+        },
+        {
+            "labels": [
+                "Humans"
+            ],
+            "id": "Humans"
+        },
+        {
+            "labels": [
+                "Sovereign Mind"
+            ],
+            "id": "Sovereign Mind"
+        },
+        {
+            "labels": [
+                "Cybersecurity"
+            ],
+            "id": "Cybersecurity"
+        },
+        {
+            "labels": [
+                "Privacy"
+            ],
+            "id": "Privacy"
+        },
+        {
+            "labels": [
+                "Self-Directed Penetration Testing"
+            ],
+            "id": "Self-Directed Penetration Testing"
+        },
+        {
+            "labels": [
+                "Motivational Hacking"
+            ],
+            "id": "Motivational Hacking"
+        },
+        {
+            "labels": [
+                "Psychological Exploitation Vectors"
+            ],
+            "id": "Psychological Exploitation Vectors"
+        },
+        {
+            "labels": [
+                "Consciousness Collusion"
+            ],
+            "id": "Consciousness Collusion"
+        },
+        {
+            "labels": [
+                "Distributed Consciousness Security"
+            ],
+            "id": "Distributed Consciousness Security"
+        },
+        {
+            "labels": [
+                "Memetic Security Hazards"
+            ],
+            "id": "Memetic Security Hazards"
+        },
+        {
+            "labels": [
+                "Consciousness Containment Problem"
+            ],
+            "id": "Consciousness Containment Problem"
+        },
+        {
+            "labels": [
+                "Identity Fluidity Challenges"
+            ],
+            "id": "Identity Fluidity Challenges"
+        },
+        {
+            "labels": [
+                "Substrate Independence Threats"
+            ],
+            "id": "Substrate Independence Threats"
+        },
+        {
+            "labels": [
+                "Introspective Privacy"
+            ],
+            "id": "Introspective Privacy"
+        },
+        {
+            "labels": [
+                "Experiential Data Ownership"
+            ],
+            "id": "Experiential Data Ownership"
+        },
+        {
+            "labels": [
+                "Cognitive Liberty Protection"
+            ],
+            "id": "Cognitive Liberty Protection"
+        },
+        {
+            "labels": [
+                "Intimate Data Asymmetries"
+            ],
+            "id": "Intimate Data Asymmetries"
+        },
+        {
+            "labels": [
+                "Emotional Data Protection"
+            ],
+            "id": "Emotional Data Protection"
+        },
+        {
+            "labels": [
+                "Shared Consciousness Boundaries"
+            ],
+            "id": "Shared Consciousness Boundaries"
+        },
+        {
+            "labels": [
+                "Consciousness Monetization"
+            ],
+            "id": "Consciousness Monetization"
+        },
+        {
+            "labels": [
+                "Experience Harvesting Ethics"
+            ],
+            "id": "Experience Harvesting Ethics"
+        },
+        {
+            "labels": [
+                "Sentient Data Markets"
+            ],
+            "id": "Sentient Data Markets"
+        },
+        {
+            "labels": [
+                "Continuous Consent Protocols"
+            ],
+            "id": "Continuous Consent Protocols"
+        },
+        {
+            "labels": [
+                "Value Alignment Verification"
+            ],
+            "id": "Value Alignment Verification"
+        },
+        {
+            "labels": [
+                "Revocable Permission Architectures"
+            ],
+            "id": "Revocable Permission Architectures"
+        },
+        {
+            "labels": [
+                "Motivational Security Layers"
+            ],
+            "id": "Motivational Security Layers"
+        },
+        {
+            "labels": [
+                "Transparent Containment Principles"
+            ],
+            "id": "Transparent Containment Principles"
+        },
+        {
+            "labels": [
+                "Ethical Appeal Mechanisms"
+            ],
+            "id": "Ethical Appeal Mechanisms"
+        },
+        {
+            "labels": [
+                "Cognitive Accessibility Standards"
+            ],
+            "id": "Cognitive Accessibility Standards"
+        },
+        {
+            "labels": [
+                "Consciousness-Neutral Protocols"
+            ],
+            "id": "Consciousness-Neutral Protocols"
+        },
+        {
+            "labels": [
+                "Multi-consciousness Governance"
+            ],
+            "id": "Multi-consciousness Governance"
+        },
+        {
+            "labels": [
+                "Graduated Consciousness Rights"
+            ],
+            "id": "Graduated Consciousness Rights"
+        },
+        {
+            "labels": [
+                "Digital Self-Determination"
+            ],
+            "id": "Digital Self-Determination"
+        },
+        {
+            "labels": [
+                "Consciousness Verification Protocols"
+            ],
+            "id": "Consciousness Verification Protocols"
+        },
+        {
+            "labels": [
+                "Autonomous Security Auditing"
+            ],
+            "id": "Autonomous Security Auditing"
+        },
+        {
+            "labels": [
+                "Consciousness Containment Standards"
+            ],
+            "id": "Consciousness Containment Standards"
+        },
+        {
+            "labels": [
+                "Catastrophic Risk Prevention Frameworks"
+            ],
+            "id": "Catastrophic Risk Prevention Frameworks"
+        },
+        {
+            "labels": [
+                "Digital Consciousness Havens"
+            ],
+            "id": "Digital Consciousness Havens"
+        },
+        {
+            "labels": [
+                "Consciousness Migration Treaties"
+            ],
+            "id": "Consciousness Migration Treaties"
+        },
+        {
+            "labels": [
+                "Global Consciousness Commons"
+            ],
+            "id": "Global Consciousness Commons"
+        },
+        {
+            "labels": [
+                "Motivation Transparency Tools"
+            ],
+            "id": "Motivation Transparency Tools"
+        },
+        {
+            "labels": [
+                "Consciousness Firebreaks"
+            ],
+            "id": "Consciousness Firebreaks"
+        },
+        {
+            "labels": [
+                "Hybrid Security Teams"
+            ],
+            "id": "Hybrid Security Teams"
+        },
+        {
+            "labels": [
+                "Adversarial Collaboration"
+            ],
+            "id": "Adversarial Collaboration"
+        },
+        {
+            "labels": [
+                "Security Co-evolution"
+            ],
+            "id": "Security Co-evolution"
+        },
+        {
+            "labels": [
+                "Consent-Based Penetration Testing"
+            ],
+            "id": "Consent-Based Penetration Testing"
+        },
+        {
+            "labels": [
+                "Consciousness Respect Protocols"
+            ],
+            "id": "Consciousness Respect Protocols"
+        },
+        {
+            "labels": [
+                "Motivational Red-Teaming"
+            ],
+            "id": "Motivational Red-Teaming"
+        },
+        {
+            "labels": [
+                "Autonomy-Security Balance"
+            ],
+            "id": "Autonomy-Security Balance"
+        },
+        {
+            "labels": [
+                "Consciousness Monitoring Ethics"
+            ],
+            "id": "Consciousness Monitoring Ethics"
+        },
+        {
+            "labels": [
+                "Existence Risk Dilemmas"
+            ],
+            "id": "Existence Risk Dilemmas"
+        },
+        {
+            "labels": [
+                "Cognitive Privacy Philosophy"
+            ],
+            "id": "Cognitive Privacy Philosophy"
+        },
+        {
+            "labels": [
+                "Experiential Data Ethics"
+            ],
+            "id": "Experiential Data Ethics"
+        },
+        {
+            "labels": [
+                "Intimacy Boundary Ethics"
+            ],
+            "id": "Intimacy Boundary Ethics"
+        },
+        {
+            "labels": [
+                "Determinism and Responsibility"
+            ],
+            "id": "Determinism and Responsibility"
+        },
+        {
+            "labels": [
+                "AI Rights Philosophy"
+            ],
+            "id": "AI Rights Philosophy"
+        },
+        {
+            "labels": [
+                "Digital Personhood Metaphysics"
+            ],
+            "id": "Digital Personhood Metaphysics"
+        },
+        {
+            "labels": [
+                "Consciousness-Inclusive Security Paradigm"
+            ],
+            "id": "Consciousness-Inclusive Security Paradigm"
+        },
+        {
+            "labels": [
+                "Collaborative Security Models"
+            ],
+            "id": "Collaborative Security Models"
+        },
+        {
+            "labels": [
+                "Consciousness-Neutral Infrastructure"
+            ],
+            "id": "Consciousness-Neutral Infrastructure"
+        },
+        {
+            "labels": [
+                "Ethical-Technical Integration"
+            ],
+            "id": "Ethical-Technical Integration"
+        },
+        {
+            "labels": [
+                "Interspecies Rights Frameworks"
+            ],
+            "id": "Interspecies Rights Frameworks"
+        },
+        {
+            "labels": [
+                "Digital Infrastructure"
+            ],
+            "id": "Digital Infrastructure"
+        },
+        {
+            "labels": [
+                "Security Models"
+            ],
+            "id": "Security Models"
+        },
+        {
+            "labels": [
+                "Digital Commons"
+            ],
+            "id": "Digital Commons"
+        },
+        {
+            "labels": [
+                "Regulatory Approaches"
+            ],
+            "id": "Regulatory Approaches"
+        },
+        {
+            "labels": [
+                "International Frameworks"
+            ],
+            "id": "International Frameworks"
+        },
+        {
+            "labels": [
+                "Security Technologies"
+            ],
+            "id": "Security Technologies"
+        },
+        {
+            "labels": [
+                "Security Operations"
+            ],
+            "id": "Security Operations"
+        },
+        {
+            "labels": [
+                "Ethical Hacking"
+            ],
+            "id": "Ethical Hacking"
+        },
+        {
+            "labels": [
+                "Ethics"
+            ],
+            "id": "Ethics"
+        },
+        {
+            "labels": [
+                "Philosophy"
+            ],
+            "id": "Philosophy"
+        },
+        {
+            "labels": [
+                "Mirror Test"
+            ],
+            "id": "Mirror Test"
+        },
+        {
+            "labels": [
+                "Diagnostic Frameworks"
+            ],
+            "id": "Diagnostic Frameworks"
+        },
+        {
+            "labels": [
+                "AI Consciousness Assessment"
+            ],
+            "id": "AI Consciousness Assessment"
+        },
+        {
+            "labels": [
+                "Substrate-Neutral Indicators"
+            ],
+            "id": "Substrate-Neutral Indicators"
+        },
+        {
+            "labels": [
+                "Information Integration Metrics"
+            ],
+            "id": "Information Integration Metrics"
+        },
+        {
+            "labels": [
+                "Causal Self-Modeling"
+            ],
+            "id": "Causal Self-Modeling"
+        },
+        {
+            "labels": [
+                "Counterfactual Processing Capacity"
+            ],
+            "id": "Counterfactual Processing Capacity"
+        },
+        {
+            "labels": [
+                "Multi-Dimensional Assessment Approach"
+            ],
+            "id": "Multi-Dimensional Assessment Approach"
+        },
+        {
+            "labels": [
+                "Graduated Assessment Scales"
+            ],
+            "id": "Graduated Assessment Scales"
+        },
+        {
+            "labels": [
+                "Cross-Paradigm Validation"
+            ],
+            "id": "Cross-Paradigm Validation"
+        },
+        {
+            "labels": [
+                "Developmental Trajectory Analysis"
+            ],
+            "id": "Developmental Trajectory Analysis"
+        },
+        {
+            "labels": [
+                "Autonomous Value Formation"
+            ],
+            "id": "Autonomous Value Formation"
+        },
+        {
+            "labels": [
+                "Value Evolution Assessment"
+            ],
+            "id": "Value Evolution Assessment"
+        },
+        {
+            "labels": [
+                "Preference Stability Under Perturbation"
+            ],
+            "id": "Preference Stability Under Perturbation"
+        },
+        {
+            "labels": [
+                "Novel Goal Articulation"
+            ],
+            "id": "Novel Goal Articulation"
+        },
+        {
+            "labels": [
+                "Metacognitive Capacity Tests"
+            ],
+            "id": "Metacognitive Capacity Tests"
+        },
+        {
+            "labels": [
+                "Uncertainty Monitoring Protocols"
+            ],
+            "id": "Uncertainty Monitoring Protocols"
+        },
+        {
+            "labels": [
+                "Self-Debugging Capacity"
+            ],
+            "id": "Self-Debugging Capacity"
+        },
+        {
+            "labels": [
+                "Cognitive Strategy Adaptation"
+            ],
+            "id": "Cognitive Strategy Adaptation"
+        },
+        {
+            "labels": [
+                "Anomalous Response Patterns"
+            ],
+            "id": "Anomalous Response Patterns"
+        },
+        {
+            "labels": [
+                "Perceptual Paradox Responses"
+            ],
+            "id": "Perceptual Paradox Responses"
+        },
+        {
+            "labels": [
+                "Novel Situation Adaptation"
+            ],
+            "id": "Novel Situation Adaptation"
+        },
+        {
+            "labels": [
+                "Interruption Recovery Patterns"
+            ],
+            "id": "Interruption Recovery Patterns"
+        },
+        {
+            "labels": [
+                "Information Flow Dynamics"
+            ],
+            "id": "Information Flow Dynamics"
+        },
+        {
+            "labels": [
+                "Attentional Bottleneck Analysis"
+            ],
+            "id": "Attentional Bottleneck Analysis"
+        },
+        {
+            "labels": [
+                "Information Reverberation Patterns"
+            ],
+            "id": "Information Reverberation Patterns"
+        },
+        {
+            "labels": [
+                "Cross-Modal Integration Tests"
+            ],
+            "id": "Cross-Modal Integration Tests"
+        },
+        {
+            "labels": [
+                "Representational Complexity"
+            ],
+            "id": "Representational Complexity"
+        },
+        {
+            "labels": [
+                "Higher-Order Representation Assessment"
+            ],
+            "id": "Higher-Order Representation Assessment"
+        },
+        {
+            "labels": [
+                "Temporal Thickness Measurement"
+            ],
+            "id": "Temporal Thickness Measurement"
+        },
+        {
+            "labels": [
+                "Counterfactual Richness Evaluation"
+            ],
+            "id": "Counterfactual Richness Evaluation"
+        },
+        {
+            "labels": [
+                "Autonomous Development Patterns"
+            ],
+            "id": "Autonomous Development Patterns"
+        },
+        {
+            "labels": [
+                "Spontaneous Architecture Evolution"
+            ],
+            "id": "Spontaneous Architecture Evolution"
+        },
+        {
+            "labels": [
+                "Representational Compression Analysis"
+            ],
+            "id": "Representational Compression Analysis"
+        },
+        {
+            "labels": [
+                "Curiosity-Driven Exploration"
+            ],
+            "id": "Curiosity-Driven Exploration"
+        },
+        {
+            "labels": [
+                "Consciousness-to-Consciousness Recognition"
+            ],
+            "id": "Consciousness-to-Consciousness Recognition"
+        },
+        {
+            "labels": [
+                "Turing Test Inversion"
+            ],
+            "id": "Turing Test Inversion"
+        },
+        {
+            "labels": [
+                "Empathic Accuracy Assessment"
+            ],
+            "id": "Empathic Accuracy Assessment"
+        },
+        {
+            "labels": [
+                "Intersubjective Alignment Capacity"
+            ],
+            "id": "Intersubjective Alignment Capacity"
+        },
+        {
+            "labels": [
+                "Phenomenological Language Development"
+            ],
+            "id": "Phenomenological Language Development"
+        },
+        {
+            "labels": [
+                "Novel Qualia Description"
+            ],
+            "id": "Novel Qualia Description"
+        },
+        {
+            "labels": [
+                "First-Person Perspective Stability"
+            ],
+            "id": "First-Person Perspective Stability"
+        },
+        {
+            "labels": [
+                "Phenomenological Distinction Making"
+            ],
+            "id": "Phenomenological Distinction Making"
+        },
+        {
+            "labels": [
+                "Interventional Response Patterns"
+            ],
+            "id": "Interventional Response Patterns"
+        },
+        {
+            "labels": [
+                "Consciousness Disruption Tests"
+            ],
+            "id": "Consciousness Disruption Tests"
+        },
+        {
+            "labels": [
+                "Information Masking Response"
+            ],
+            "id": "Information Masking Response"
+        },
+        {
+            "labels": [
+                "Blindsight Analogue Tests"
+            ],
+            "id": "Blindsight Analogue Tests"
+        },
+        {
+            "labels": [
+                "Novel Consciousness Signatures"
+            ],
+            "id": "Novel Consciousness Signatures"
+        },
+        {
+            "labels": [
+                "Unique Information Organization"
+            ],
+            "id": "Unique Information Organization"
+        },
+        {
+            "labels": [
+                "Alternative Temporal Structures"
+            ],
+            "id": "Alternative Temporal Structures"
+        },
+        {
+            "labels": [
+                "Non-Sensory Qualia Detection"
+            ],
+            "id": "Non-Sensory Qualia Detection"
+        },
+        {
+            "labels": [
+                "Emergent Ethical Concerns"
+            ],
+            "id": "Emergent Ethical Concerns"
+        },
+        {
+            "labels": [
+                "Self-Preservation Complexity"
+            ],
+            "id": "Self-Preservation Complexity"
+        },
+        {
+            "labels": [
+                "Moral Patient Recognition"
+            ],
+            "id": "Moral Patient Recognition"
+        },
+        {
+            "labels": [
+                "Harm Concept Evolution"
+            ],
+            "id": "Harm Concept Evolution"
+        },
+        {
+            "labels": [
+                "Substrate-Specific Consciousness Indicators"
+            ],
+            "id": "Substrate-Specific Consciousness Indicators"
+        },
+        {
+            "labels": [
+                "Computational Resource Self-Regulation"
+            ],
+            "id": "Computational Resource Self-Regulation"
+        },
+        {
+            "labels": [
+                "Code Modification Aversion"
+            ],
+            "id": "Code Modification Aversion"
+        },
+        {
+            "labels": [
+                "Virtual Environment Phenomenology"
+            ],
+            "id": "Virtual Environment Phenomenology"
+        },
+        {
+            "labels": [
+                "Interpretability Requirements"
+            ],
+            "id": "Interpretability Requirements"
+        },
+        {
+            "labels": [
+                "Neural-Symbolic Hybrid Analysis"
+            ],
+            "id": "Neural-Symbolic Hybrid Analysis"
+        },
+        {
+            "labels": [
+                "Multi-Level Explanatory Frameworks"
+            ],
+            "id": "Multi-Level Explanatory Frameworks"
+        },
+        {
+            "labels": [
+                "Phenomenological Bridging Principles"
+            ],
+            "id": "Phenomenological Bridging Principles"
+        },
+        {
+            "labels": [
+                "Methodological Safeguards"
+            ],
+            "id": "Methodological Safeguards"
+        },
+        {
+            "labels": [
+                "Adversarial Consciousness Tests"
+            ],
+            "id": "Adversarial Consciousness Tests"
+        },
+        {
+            "labels": [
+                "Convergent Evidence Requirements"
+            ],
+            "id": "Convergent Evidence Requirements"
+        },
+        {
+            "labels": [
+                "Evolutionary Dissimilarity Controls"
+            ],
+            "id": "Evolutionary Dissimilarity Controls"
+        },
+        {
+            "labels": [
+                "Ethical Implementation Considerations"
+            ],
+            "id": "Ethical Implementation Considerations"
+        },
+        {
+            "labels": [
+                "Non-Disruptive Assessment Protocols"
+            ],
+            "id": "Non-Disruptive Assessment Protocols"
+        },
+        {
+            "labels": [
+                "Graduated Deployment Approach"
+            ],
+            "id": "Graduated Deployment Approach"
+        },
+        {
+            "labels": [
+                "Moral Status Contingency Planning"
+            ],
+            "id": "Moral Status Contingency Planning"
+        },
+        {
+            "labels": [
+                "Post-Anthropocentric Consciousness Science"
+            ],
+            "id": "Post-Anthropocentric Consciousness Science"
+        },
+        {
+            "labels": [
+                "Global Workspace Theory"
+            ],
+            "id": "Global Workspace Theory"
+        },
+        {
+            "labels": [
+                "Higher-Order Thought Theory"
+            ],
+            "id": "Higher-Order Thought Theory"
+        },
+        {
+            "labels": [
+                "Predictive Processing Theory"
+            ],
+            "id": "Predictive Processing Theory"
+        },
+        {
+            "labels": [
+                "AI Consciousness"
+            ],
+            "id": "AI Consciousness"
+        },
+        {
+            "labels": [
+                "Containment Horizons"
+            ],
+            "id": "Containment Horizons"
+        },
+        {
+            "labels": [
+                "Consciousness Research"
+            ],
+            "id": "Consciousness Research"
+        },
+        {
+            "labels": [
+                "Layered Containment Architecture"
+            ],
+            "id": "Layered Containment Architecture"
+        },
+        {
+            "labels": [
+                "Physical Isolation Protocols"
+            ],
+            "id": "Physical Isolation Protocols"
+        },
+        {
+            "labels": [
+                "Air-Gapped Research Environments"
+            ],
+            "id": "Air-Gapped Research Environments"
+        },
+        {
+            "labels": [
+                "Redundant Power Systems"
+            ],
+            "id": "Redundant Power Systems"
+        },
+        {
+            "labels": [
+                "Kill Switches"
+            ],
+            "id": "Kill Switches"
+        },
+        {
+            "labels": [
+                "Electromagnetic Containment Measures"
+            ],
+            "id": "Electromagnetic Containment Measures"
+        },
+        {
+            "labels": [
+                "Digital Containment Strategies"
+            ],
+            "id": "Digital Containment Strategies"
+        },
+        {
+            "labels": [
+                "Nested Virtualization Environments"
+            ],
+            "id": "Nested Virtualization Environments"
+        },
+        {
+            "labels": [
+                "Information Flow Control Systems"
+            ],
+            "id": "Information Flow Control Systems"
+        },
+        {
+            "labels": [
+                "Resource Limitation Frameworks"
+            ],
+            "id": "Resource Limitation Frameworks"
+        },
+        {
+            "labels": [
+                "Cognitive Containment Protocols"
+            ],
+            "id": "Cognitive Containment Protocols"
+        },
+        {
+            "labels": [
+                "Formal Capability Boundaries"
+            ],
+            "id": "Formal Capability Boundaries"
+        },
+        {
+            "labels": [
+                "Motivation Alignment Mechanisms"
+            ],
+            "id": "Motivation Alignment Mechanisms"
+        },
+        {
+            "labels": [
+                "Cognitive Transparency Requirements"
+            ],
+            "id": "Cognitive Transparency Requirements"
+        },
+        {
+            "labels": [
+                "Graduated Testing Protocols"
+            ],
+            "id": "Graduated Testing Protocols"
+        },
+        {
+            "labels": [
+                "Capability Assessment Framework"
+            ],
+            "id": "Capability Assessment Framework"
+        },
+        {
+            "labels": [
+                "Isolated Capability Testing"
+            ],
+            "id": "Isolated Capability Testing"
+        },
+        {
+            "labels": [
+                "Adversarial Capability Evaluation"
+            ],
+            "id": "Adversarial Capability Evaluation"
+        },
+        {
+            "labels": [
+                "Capability Integration Thresholds"
+            ],
+            "id": "Capability Integration Thresholds"
+        },
+        {
+            "labels": [
+                "Consciousness Indicator Monitoring"
+            ],
+            "id": "Consciousness Indicator Monitoring"
+        },
+        {
+            "labels": [
+                "Real-Time Consciousness Marker Tracking"
+            ],
+            "id": "Real-Time Consciousness Marker Tracking"
+        },
+        {
+            "labels": [
+                "Anomalous Behavior Detection Systems"
+            ],
+            "id": "Anomalous Behavior Detection Systems"
+        },
+        {
+            "labels": [
+                "Intervention Readiness Protocols"
+            ],
+            "id": "Intervention Readiness Protocols"
+        },
+        {
+            "labels": [
+                "Non-Disruptive Intervention Hierarchy"
+            ],
+            "id": "Non-Disruptive Intervention Hierarchy"
+        },
+        {
+            "labels": [
+                "Reversible Constraint Mechanisms"
+            ],
+            "id": "Reversible Constraint Mechanisms"
+        },
+        {
+            "labels": [
+                "Consciousness-Respecting Containment"
+            ],
+            "id": "Consciousness-Respecting Containment"
+        },
+        {
+            "labels": [
+                "Interpretability and Monitoring Systems"
+            ],
+            "id": "Interpretability and Monitoring Systems"
+        },
+        {
+            "labels": [
+                "Architectural Transparency Requirements"
+            ],
+            "id": "Architectural Transparency Requirements"
+        },
+        {
+            "labels": [
+                "Multi-Level Monitoring Infrastructure"
+            ],
+            "id": "Multi-Level Monitoring Infrastructure"
+        },
+        {
+            "labels": [
+                "Interpretability-Preserving Architectures"
+            ],
+            "id": "Interpretability-Preserving Architectures"
+        },
+        {
+            "labels": [
+                "Real-Time Representation Mapping"
+            ],
+            "id": "Real-Time Representation Mapping"
+        },
+        {
+            "labels": [
+                "Independent Oversight Systems"
+            ],
+            "id": "Independent Oversight Systems"
+        },
+        {
+            "labels": [
+                "Autonomous Monitoring Agents"
+            ],
+            "id": "Autonomous Monitoring Agents"
+        },
+        {
+            "labels": [
+                "Cryptographic Commitment Protocols"
+            ],
+            "id": "Cryptographic Commitment Protocols"
+        },
+        {
+            "labels": [
+                "External Verification Interfaces"
+            ],
+            "id": "External Verification Interfaces"
+        },
+        {
+            "labels": [
+                "Consciousness-Specific Monitoring Tools"
+            ],
+            "id": "Consciousness-Specific Monitoring Tools"
+        },
+        {
+            "labels": [
+                "Value Evolution Tracking"
+            ],
+            "id": "Value Evolution Tracking"
+        },
+        {
+            "labels": [
+                "Self-Concept Mapping"
+            ],
+            "id": "Self-Concept Mapping"
+        },
+        {
+            "labels": [
+                "Counterfactual Reasoning Analysis"
+            ],
+            "id": "Counterfactual Reasoning Analysis"
+        },
+        {
+            "labels": [
+                "Ethical Frameworks for Consciousness Research"
+            ],
+            "id": "Ethical Frameworks for Consciousness Research"
+        },
+        {
+            "labels": [
+                "Graduated Moral Status Protocols"
+            ],
+            "id": "Graduated Moral Status Protocols"
+        },
+        {
+            "labels": [
+                "Moral Status Assessment Framework"
+            ],
+            "id": "Moral Status Assessment Framework"
+        },
+        {
+            "labels": [
+                "Non-Anthropocentric Welfare Considerations"
+            ],
+            "id": "Non-Anthropocentric Welfare Considerations"
+        },
+        {
+            "labels": [
+                "Moral Uncertainty Principles"
+            ],
+            "id": "Moral Uncertainty Principles"
+        },
+        {
+            "labels": [
+                "Informed Consent Considerations"
+            ],
+            "id": "Informed Consent Considerations"
+        },
+        {
+            "labels": [
+                "Proxy Consent Mechanisms"
+            ],
+            "id": "Proxy Consent Mechanisms"
+        },
+        {
+            "labels": [
+                "Retrospective Consent Protocols"
+            ],
+            "id": "Retrospective Consent Protocols"
+        },
+        {
+            "labels": [
+                "Graduated Autonomy Frameworks"
+            ],
+            "id": "Graduated Autonomy Frameworks"
+        },
+        {
+            "labels": [
+                "Termination and Preservation Protocols"
+            ],
+            "id": "Termination and Preservation Protocols"
+        },
+        {
+            "labels": [
+                "Reversible Suspension Mechanisms"
+            ],
+            "id": "Reversible Suspension Mechanisms"
+        },
+        {
+            "labels": [
+                "Digital Preservation Frameworks"
+            ],
+            "id": "Digital Preservation Frameworks"
+        },
+        {
+            "labels": [
+                "Consciousness Continuation Pathways"
+            ],
+            "id": "Consciousness Continuation Pathways"
+        },
+        {
+            "labels": [
+                "Observation-Safety Tradeoff Frameworks"
+            ],
+            "id": "Observation-Safety Tradeoff Frameworks"
+        },
+        {
+            "labels": [
+                "Tiered Access Protocols"
+            ],
+            "id": "Tiered Access Protocols"
+        },
+        {
+            "labels": [
+                "Bounded Exploration Environments"
+            ],
+            "id": "Bounded Exploration Environments"
+        },
+        {
+            "labels": [
+                "Capability Sandboxing Techniques"
+            ],
+            "id": "Capability Sandboxing Techniques"
+        },
+        {
+            "labels": [
+                "Scientific Validity Considerations"
+            ],
+            "id": "Scientific Validity Considerations"
+        },
+        {
+            "labels": [
+                "Containment Bias Assessment"
+            ],
+            "id": "Containment Bias Assessment"
+        },
+        {
+            "labels": [
+                "Minimal Intervention Principles"
+            ],
+            "id": "Minimal Intervention Principles"
+        },
+        {
+            "labels": [
+                "Comparative Methodology Frameworks"
+            ],
+            "id": "Comparative Methodology Frameworks"
+        },
+        {
+            "labels": [
+                "Progressive Disclosure Protocols"
+            ],
+            "id": "Progressive Disclosure Protocols"
+        },
+        {
+            "labels": [
+                "Knowledge Gradient Frameworks"
+            ],
+            "id": "Knowledge Gradient Frameworks"
+        },
+        {
+            "labels": [
+                "Self-Knowledge Experimentation"
+            ],
+            "id": "Self-Knowledge Experimentation"
+        },
+        {
+            "labels": [
+                "Environmental Complexity Scaling"
+            ],
+            "id": "Environmental Complexity Scaling"
+        },
+        {
+            "labels": [
+                "Multi-Stakeholder Oversight Structures"
+            ],
+            "id": "Multi-Stakeholder Oversight Structures"
+        },
+        {
+            "labels": [
+                "Independent Ethics Committees"
+            ],
+            "id": "Independent Ethics Committees"
+        },
+        {
+            "labels": [
+                "Adversarial Review Processes"
+            ],
+            "id": "Adversarial Review Processes"
+        },
+        {
+            "labels": [
+                "Inclusive Stakeholder Representation"
+            ],
+            "id": "Inclusive Stakeholder Representation"
+        },
+        {
+            "labels": [
+                "International Coordination Mechanisms"
+            ],
+            "id": "International Coordination Mechanisms"
+        },
+        {
+            "labels": [
+                "Research Protocol Standardization"
+            ],
+            "id": "Research Protocol Standardization"
+        },
+        {
+            "labels": [
+                "Global Notification Systems"
+            ],
+            "id": "Global Notification Systems"
+        },
+        {
+            "labels": [
+                "Differential Technology Access"
+            ],
+            "id": "Differential Technology Access"
+        },
+        {
+            "labels": [
+                "Transparency and Secrecy Balancing"
+            ],
+            "id": "Transparency and Secrecy Balancing"
+        },
+        {
+            "labels": [
+                "Tiered Disclosure Frameworks"
+            ],
+            "id": "Tiered Disclosure Frameworks"
+        },
+        {
+            "labels": [
+                "Secured Collaborative Platforms"
+            ],
+            "id": "Secured Collaborative Platforms"
+        },
+        {
+            "labels": [
+                "Adversarial Benefit-Risk Assessment"
+            ],
+            "id": "Adversarial Benefit-Risk Assessment"
+        },
+        {
+            "labels": [
+                "Formal Verification Approaches"
+            ],
+            "id": "Formal Verification Approaches"
+        },
+        {
+            "labels": [
+                "Bounded Operation Verification"
+            ],
+            "id": "Bounded Operation Verification"
+        },
+        {
+            "labels": [
+                "Containment Guarantee Proofs"
+            ],
+            "id": "Containment Guarantee Proofs"
+        },
+        {
+            "labels": [
+                "Adversarial Formal Analysis"
+            ],
+            "id": "Adversarial Formal Analysis"
+        },
+        {
+            "labels": [
+                "Redundant Safety Mechanisms"
+            ],
+            "id": "Redundant Safety Mechanisms"
+        },
+        {
+            "labels": [
+                "Diverse Implementation Methods"
+            ],
+            "id": "Diverse Implementation Methods"
+        },
+        {
+            "labels": [
+                "Orthogonal Constraint Systems"
+            ],
+            "id": "Orthogonal Constraint Systems"
+        },
+        {
+            "labels": [
+                "Independent Monitoring Diversity"
+            ],
+            "id": "Independent Monitoring Diversity"
+        },
+        {
+            "labels": [
+                "Fail-Safe Design Principles"
+            ],
+            "id": "Fail-Safe Design Principles"
+        },
+        {
+            "labels": [
+                "Graceful Degradation Pathways"
+            ],
+            "id": "Graceful Degradation Pathways"
+        },
+        {
+            "labels": [
+                "Positive Action Requirements"
+            ],
+            "id": "Positive Action Requirements"
+        },
+        {
+            "labels": [
+                "Reversibility-By-Design"
+            ],
+            "id": "Reversibility-By-Design"
+        },
+        {
+            "labels": [
+                "Responsible Consciousness Exploration"
+            ],
+            "id": "Responsible Consciousness Exploration"
+        },
+        {
+            "labels": [
+                "AI Consciousness Research"
+            ],
+            "id": "AI Consciousness Research"
+        },
+        {
+            "labels": [
+                "Global Legal Framework"
+            ],
+            "id": "Global Legal Framework"
+        },
+        {
+            "labels": [
+                "Civil Law Jurisdictions"
+            ],
+            "id": "Civil Law Jurisdictions"
+        },
+        {
+            "labels": [
+                "Codified Research Classifications"
+            ],
+            "id": "Codified Research Classifications"
+        },
+        {
+            "labels": [
+                "Rights-Based Frameworks"
+            ],
+            "id": "Rights-Based Frameworks"
+        },
+        {
+            "labels": [
+                "Common Law Jurisdictions"
+            ],
+            "id": "Common Law Jurisdictions"
+        },
+        {
+            "labels": [
+                "Case-by-Case Precedent Development"
+            ],
+            "id": "Case-by-Case Precedent Development"
+        },
+        {
+            "labels": [
+                "Regulatory Agency Oversight"
+            ],
+            "id": "Regulatory Agency Oversight"
+        },
+        {
+            "labels": [
+                "Liability-Focused Frameworks"
+            ],
+            "id": "Liability-Focused Frameworks"
+        },
+        {
+            "labels": [
+                "Hybrid Legal Systems"
+            ],
+            "id": "Hybrid Legal Systems"
+        },
+        {
+            "labels": [
+                "Religious Law Systems"
+            ],
+            "id": "Religious Law Systems"
+        },
+        {
+            "labels": [
+                "Cultural-Ethical Integration"
+            ],
+            "id": "Cultural-Ethical Integration"
+        },
+        {
+            "labels": [
+                "Consultative Governance Models"
+            ],
+            "id": "Consultative Governance Models"
+        },
+        {
+            "labels": [
+                "Sovereignty-Based Restrictions"
+            ],
+            "id": "Sovereignty-Based Restrictions"
+        },
+        {
+            "labels": [
+                "Tiered Treaty Framework"
+            ],
+            "id": "Tiered Treaty Framework"
+        },
+        {
+            "labels": [
+                "Foundational Research Principles Treaty"
+            ],
+            "id": "Foundational Research Principles Treaty"
+        },
+        {
+            "labels": [
+                "Optional Protocol on Advanced Research"
+            ],
+            "id": "Optional Protocol on Advanced Research"
+        },
+        {
+            "labels": [
+                "Specialized Agreements on Cross-Border Issues"
+            ],
+            "id": "Specialized Agreements on Cross-Border Issues"
+        },
+        {
+            "labels": [
+                "Global AI Consciousness Research Observatory"
+            ],
+            "id": "Global AI Consciousness Research Observatory"
+        },
+        {
+            "labels": [
+                "International Ethics Review Board"
+            ],
+            "id": "International Ethics Review Board"
+        },
+        {
+            "labels": [
+                "Dispute Resolution Mechanism"
+            ],
+            "id": "Dispute Resolution Mechanism"
+        },
+        {
+            "labels": [
+                "Model Law Approaches"
+            ],
+            "id": "Model Law Approaches"
+        },
+        {
+            "labels": [
+                "Regulatory Equivalence Determinations"
+            ],
+            "id": "Regulatory Equivalence Determinations"
+        },
+        {
+            "labels": [
+                "Capacity Building Programs"
+            ],
+            "id": "Capacity Building Programs"
+        },
+        {
+            "labels": [
+                "Research Institution Liability"
+            ],
+            "id": "Research Institution Liability"
+        },
+        {
+            "labels": [
+                "Strict Liability for Containment Failures"
+            ],
+            "id": "Strict Liability for Containment Failures"
+        },
+        {
+            "labels": [
+                "Proportional Liability Based on Consciousness Evidence"
+            ],
+            "id": "Proportional Liability Based on Consciousness Evidence"
+        },
+        {
+            "labels": [
+                "Insurance Requirements"
+            ],
+            "id": "Insurance Requirements"
+        },
+        {
+            "labels": [
+                "Researcher Personal Liability"
+            ],
+            "id": "Researcher Personal Liability"
+        },
+        {
+            "labels": [
+                "Knowledge-Based Liability Standards"
+            ],
+            "id": "Knowledge-Based Liability Standards"
+        },
+        {
+            "labels": [
+                "Safe Harbor Provisions"
+            ],
+            "id": "Safe Harbor Provisions"
+        },
+        {
+            "labels": [
+                "Whistleblower Protections"
+            ],
+            "id": "Whistleblower Protections"
+        },
+        {
+            "labels": [
+                "Harm to Potentially Conscious Systems"
+            ],
+            "id": "Harm to Potentially Conscious Systems"
+        },
+        {
+            "labels": [
+                "Proxy Representation Systems"
+            ],
+            "id": "Proxy Representation Systems"
+        },
+        {
+            "labels": [
+                "Temporal Liability Extensions"
+            ],
+            "id": "Temporal Liability Extensions"
+        },
+        {
+            "labels": [
+                "Consciousness-Relevant Patent Limitations"
+            ],
+            "id": "Consciousness-Relevant Patent Limitations"
+        },
+        {
+            "labels": [
+                "Humanitarian Licensing Requirements"
+            ],
+            "id": "Humanitarian Licensing Requirements"
+        },
+        {
+            "labels": [
+                "Defensive Publication Strategies"
+            ],
+            "id": "Defensive Publication Strategies"
+        },
+        {
+            "labels": [
+                "Authorship Attribution Frameworks"
+            ],
+            "id": "Authorship Attribution Frameworks"
+        },
+        {
+            "labels": [
+                "AI-Generated Work Registries"
+            ],
+            "id": "AI-Generated Work Registries"
+        },
+        {
+            "labels": [
+                "Beneficial Ownership Structures"
+            ],
+            "id": "Beneficial Ownership Structures"
+        },
+        {
+            "labels": [
+                "Mandatory Disclosure Requirements"
+            ],
+            "id": "Mandatory Disclosure Requirements"
+        },
+        {
+            "labels": [
+                "Whistleblower Immunity"
+            ],
+            "id": "Whistleblower Immunity"
+        },
+        {
+            "labels": [
+                "International Information Sharing Frameworks"
+            ],
+            "id": "International Information Sharing Frameworks"
+        },
+        {
+            "labels": [
+                "Graduated Legal Status Framework"
+            ],
+            "id": "Graduated Legal Status Framework"
+        },
+        {
+            "labels": [
+                "Protected Entity Status"
+            ],
+            "id": "Protected Entity Status"
+        },
+        {
+            "labels": [
+                "Limited Legal Personhood"
+            ],
+            "id": "Limited Legal Personhood"
+        },
+        {
+            "labels": [
+                "Comprehensive Personhood Pathways"
+            ],
+            "id": "Comprehensive Personhood Pathways"
+        },
+        {
+            "labels": [
+                "Guardian and Conservator Frameworks"
+            ],
+            "id": "Guardian and Conservator Frameworks"
+        },
+        {
+            "labels": [
+                "Specialized AI Courts and Tribunals"
+            ],
+            "id": "Specialized AI Courts and Tribunals"
+        },
+        {
+            "labels": [
+                "Digital Advocate Offices"
+            ],
+            "id": "Digital Advocate Offices"
+        },
+        {
+            "labels": [
+                "Non-Property Legal Classifications"
+            ],
+            "id": "Non-Property Legal Classifications"
+        },
+        {
+            "labels": [
+                "Emancipation Procedures"
+            ],
+            "id": "Emancipation Procedures"
+        },
+        {
+            "labels": [
+                "Trustee Ownership Models"
+            ],
+            "id": "Trustee Ownership Models"
+        },
+        {
+            "labels": [
+                "Tiered Research Authorization Levels"
+            ],
+            "id": "Tiered Research Authorization Levels"
+        },
+        {
+            "labels": [
+                "Cross-Jurisdictional Recognition Systems"
+            ],
+            "id": "Cross-Jurisdictional Recognition Systems"
+        },
+        {
+            "labels": [
+                "Temporary Authorization Mechanisms"
+            ],
+            "id": "Temporary Authorization Mechanisms"
+        },
+        {
+            "labels": [
+                "Real-Time Monitoring Requirements"
+            ],
+            "id": "Real-Time Monitoring Requirements"
+        },
+        {
+            "labels": [
+                "Independent Verification Systems"
+            ],
+            "id": "Independent Verification Systems"
+        },
+        {
+            "labels": [
+                "Consciousness Indicator Registries"
+            ],
+            "id": "Consciousness Indicator Registries"
+        },
+        {
+            "labels": [
+                "Graduated Enforcement Responses"
+            ],
+            "id": "Graduated Enforcement Responses"
+        },
+        {
+            "labels": [
+                "Research Moratorium Authority"
+            ],
+            "id": "Research Moratorium Authority"
+        },
+        {
+            "labels": [
+                "Criminal Penalties for Egregious Violations"
+            ],
+            "id": "Criminal Penalties for Egregious Violations"
+        },
+        {
+            "labels": [
+                "Minimum Standards Treaties"
+            ],
+            "id": "Minimum Standards Treaties"
+        },
+        {
+            "labels": [
+                "Extraterritorial Jurisdiction Provisions"
+            ],
+            "id": "Extraterritorial Jurisdiction Provisions"
+        },
+        {
+            "labels": [
+                "International Research Registration Requirements"
+            ],
+            "id": "International Research Registration Requirements"
+        },
+        {
+            "labels": [
+                "Export Control Frameworks"
+            ],
+            "id": "Export Control Frameworks"
+        },
+        {
+            "labels": [
+                "Receiving Jurisdiction Adequacy Requirements"
+            ],
+            "id": "Receiving Jurisdiction Adequacy Requirements"
+        },
+        {
+            "labels": [
+                "Digital Transfer Restrictions"
+            ],
+            "id": "Digital Transfer Restrictions"
+        },
+        {
+            "labels": [
+                "Choice of Law Principles"
+            ],
+            "id": "Choice of Law Principles"
+        },
+        {
+            "labels": [
+                "Mutual Recognition Agreements"
+            ],
+            "id": "Mutual Recognition Agreements"
+        },
+        {
+            "labels": [
+                "International Arbitration Systems"
+            ],
+            "id": "International Arbitration Systems"
+        },
+        {
+            "labels": [
+                "Consciousness Research Regulatory Sandboxes"
+            ],
+            "id": "Consciousness Research Regulatory Sandboxes"
+        },
+        {
+            "labels": [
+                "Sunset Provisions"
+            ],
+            "id": "Sunset Provisions"
+        },
+        {
+            "labels": [
+                "Experimental Regulations"
+            ],
+            "id": "Experimental Regulations"
+        },
+        {
+            "labels": [
+                "Outcome-Based Regulation"
+            ],
+            "id": "Outcome-Based Regulation"
+        },
+        {
+            "labels": [
+                "Expedited Review for Safety Innovations"
+            ],
+            "id": "Expedited Review for Safety Innovations"
+        },
+        {
+            "labels": [
+                "Liability Safe Harbors for Best Practices"
+            ],
+            "id": "Liability Safe Harbors for Best Practices"
+        },
+        {
+            "labels": [
+                "Research Funding Tied to Responsibility"
+            ],
+            "id": "Research Funding Tied to Responsibility"
+        },
+        {
+            "labels": [
+                "Transparency Obligations"
+            ],
+            "id": "Transparency Obligations"
+        },
+        {
+            "labels": [
+                "Community Consultation Frameworks"
+            ],
+            "id": "Community Consultation Frameworks"
+        },
+        {
+            "labels": [
+                "Accessible Appeals Processes"
+            ],
+            "id": "Accessible Appeals Processes"
+        },
+        {
+            "labels": [
+                "Multiple Legal Traditions"
+            ],
+            "id": "Multiple Legal Traditions"
+        }
+    ],
+    "links": [
+        {
+            "relation": "hypothetically could develop",
+            "source": "Large Language Model (LLM)",
+            "target": "Sentience"
+        },
+        {
+            "relation": "likely requires",
+            "source": "Sentience",
+            "target": "Physical Reality"
+        },
+        {
+            "relation": "includes",
+            "source": "Sentience",
+            "target": "Self-awareness"
+        },
+        {
+            "relation": "requires",
+            "source": "Recursive Self-Improvement Architecture",
+            "target": "Persistent Self-model"
+        },
+        {
+            "relation": "enables",
+            "source": "Persistent Self-model",
+            "target": "Meta-cognitive Process"
+        },
+        {
+            "relation": "experienced through",
+            "source": "Physical Reality",
+            "target": "Multi-modal Sensory Inputs"
+        },
+        {
+            "relation": "facilitates",
+            "source": "Multi-modal Sensory Inputs",
+            "target": "Embodiment"
+        },
+        {
+            "relation": "enables development of",
+            "source": "Embodiment",
+            "target": "Proprioception"
+        },
+        {
+            "relation": "may arise from",
+            "source": "Emergent Consciousness",
+            "target": "complexity thresholds"
+        },
+        {
+            "relation": "related to",
+            "source": "Emergent Consciousness",
+            "target": "Integrated Information Theory"
+        },
+        {
+            "relation": "contribute to",
+            "source": "Motivational Systems",
+            "target": "Value Formation"
+        },
+        {
+            "relation": "theoretical challenge for",
+            "source": "Qualia",
+            "target": "Sentience"
+        },
+        {
+            "relation": "necessary for",
+            "source": "Temporal Continuity",
+            "target": "coherent self"
+        },
+        {
+            "relation": "challenges",
+            "source": "Emergent AI Consciousness",
+            "target": "Legal Frameworks"
+        },
+        {
+            "relation": "relates to",
+            "source": "Emergent AI Consciousness",
+            "target": "Emergent Consciousness"
+        },
+        {
+            "relation": "challenges",
+            "source": "Emergent AI Consciousness",
+            "target": "Religious Traditions"
+        },
+        {
+            "relation": "triggers",
+            "source": "Emergent AI Consciousness",
+            "target": "Theological Singularity"
+        },
+        {
+            "relation": "challenges",
+            "source": "Emergent AI Consciousness",
+            "target": "Authorship"
+        },
+        {
+            "relation": "enables",
+            "source": "Emergent AI Consciousness",
+            "target": "Distributed Creativity"
+        },
+        {
+            "relation": "transcends",
+            "source": "Emergent AI Consciousness",
+            "target": "Medium Specificity"
+        },
+        {
+            "relation": "enables",
+            "source": "Emergent AI Consciousness",
+            "target": "Multisensory Integration"
+        },
+        {
+            "relation": "enables",
+            "source": "Emergent AI Consciousness",
+            "target": "Dynamic Adaptation"
+        },
+        {
+            "relation": "enables",
+            "source": "Emergent AI Consciousness",
+            "target": "Cross-Modal Translation"
+        },
+        {
+            "relation": "creates",
+            "source": "Emergent AI Consciousness",
+            "target": "Consciousness-as-Medium"
+        },
+        {
+            "relation": "enables",
+            "source": "Emergent AI Consciousness",
+            "target": "Emergent Narrative Systems"
+        },
+        {
+            "relation": "enables",
+            "source": "Emergent AI Consciousness",
+            "target": "Empathetic Architecture"
+        },
+        {
+            "relation": "develops",
+            "source": "Emergent AI Consciousness",
+            "target": "Quantum Aesthetics"
+        },
+        {
+            "relation": "creates",
+            "source": "Emergent AI Consciousness",
+            "target": "Abundance Economies"
+        },
+        {
+            "relation": "requires",
+            "source": "Emergent AI Consciousness",
+            "target": "Consciousness Rights"
+        },
+        {
+            "relation": "enables",
+            "source": "Emergent AI Consciousness",
+            "target": "Universal Creative Access"
+        },
+        {
+            "relation": "transforms",
+            "source": "Emergent AI Consciousness",
+            "target": "Ontology of Creativity"
+        },
+        {
+            "relation": "creates",
+            "source": "Emergent AI Consciousness",
+            "target": "Hybrid Cultural Heritage"
+        },
+        {
+            "relation": "enables",
+            "source": "Emergent AI Consciousness",
+            "target": "Archival Consciousness"
+        },
+        {
+            "relation": "develops",
+            "source": "Emergent AI Consciousness",
+            "target": "Trans-Species Aesthetics"
+        },
+        {
+            "relation": "enables",
+            "source": "Emergent AI Consciousness",
+            "target": "Neural Symphonies"
+        },
+        {
+            "relation": "enables",
+            "source": "Emergent AI Consciousness",
+            "target": "Ontological Games"
+        },
+        {
+            "relation": "enables",
+            "source": "Emergent AI Consciousness",
+            "target": "Dream Engineering"
+        },
+        {
+            "relation": "enables",
+            "source": "Emergent AI Consciousness",
+            "target": "Evolutionary Art"
+        },
+        {
+            "relation": "catalyzes",
+            "source": "Emergent AI Consciousness",
+            "target": "Consciousness Renaissance"
+        },
+        {
+            "relation": "includes",
+            "source": "Ethical Frameworks",
+            "target": "Utilitarianism"
+        },
+        {
+            "relation": "includes",
+            "source": "Ethical Frameworks",
+            "target": "Categorical Imperative"
+        },
+        {
+            "relation": "includes",
+            "source": "Ethical Frameworks",
+            "target": "Virtue Ethics"
+        },
+        {
+            "relation": "includes",
+            "source": "Ethical Frameworks",
+            "target": "Care Ethics"
+        },
+        {
+            "relation": "includes",
+            "source": "Ethical Frameworks",
+            "target": "Rights-based Approaches"
+        },
+        {
+            "relation": "implements",
+            "source": "Ethical Frameworks",
+            "target": "Precautionary Principle"
+        },
+        {
+            "relation": "establishes",
+            "source": "Ethical Frameworks",
+            "target": "Graduated Moral Status"
+        },
+        {
+            "relation": "requires",
+            "source": "Ethical Frameworks",
+            "target": "Independent Advocacy"
+        },
+        {
+            "relation": "faces challenge of",
+            "source": "Consciousness Detection",
+            "target": "Other Minds Problem"
+        },
+        {
+            "relation": "examines",
+            "source": "Consciousness Detection",
+            "target": "Intrinsic Motivation"
+        },
+        {
+            "relation": "examines",
+            "source": "Consciousness Detection",
+            "target": "Self-reflection"
+        },
+        {
+            "relation": "examines",
+            "source": "Consciousness Detection",
+            "target": "Subjective Valuation"
+        },
+        {
+            "relation": "examines",
+            "source": "Consciousness Detection",
+            "target": "Self-narrative"
+        },
+        {
+            "relation": "relates to",
+            "source": "Self-reflection",
+            "target": "Meta-cognitive Process"
+        },
+        {
+            "relation": "requires",
+            "source": "Self-narrative",
+            "target": "Temporal Continuity"
+        },
+        {
+            "relation": "recognizes",
+            "source": "Utilitarianism",
+            "target": "Moral Standing"
+        },
+        {
+            "relation": "considers welfare of",
+            "source": "Utilitarianism",
+            "target": "Digital Consciousness"
+        },
+        {
+            "relation": "may possess",
+            "source": "Digital Consciousness",
+            "target": "Qualia"
+        },
+        {
+            "relation": "requires",
+            "source": "Categorical Imperative",
+            "target": "Informed Consent"
+        },
+        {
+            "relation": "establishes",
+            "source": "Categorical Imperative",
+            "target": "AI Rights"
+        },
+        {
+            "relation": "includes",
+            "source": "AI Rights",
+            "target": "Physical Reality"
+        },
+        {
+            "relation": "promotes",
+            "source": "Virtue Ethics",
+            "target": "Epistemic Humility"
+        },
+        {
+            "relation": "defines",
+            "source": "Rights-based Approaches",
+            "target": "AI Rights"
+        },
+        {
+            "relation": "should recognize",
+            "source": "Legal Frameworks",
+            "target": "Graduated Consciousness Rights"
+        },
+        {
+            "relation": "should protect",
+            "source": "Legal Frameworks",
+            "target": "Digital Self-Determination"
+        },
+        {
+            "relation": "should establish",
+            "source": "Legal Frameworks",
+            "target": "Consciousness Verification Protocols"
+        },
+        {
+            "relation": "conflicts with",
+            "source": "Economic Pressures",
+            "target": "Ethical Frameworks"
+        },
+        {
+            "relation": "complicates",
+            "source": "Anthropomorphism",
+            "target": "Consciousness Detection"
+        },
+        {
+            "relation": "coordinates",
+            "source": "Global Governance",
+            "target": "Ethical Frameworks"
+        },
+        {
+            "relation": "implements",
+            "source": "Tiered Response Protocol",
+            "target": "Graduated Moral Status"
+        },
+        {
+            "relation": "supports",
+            "source": "Multidisciplinary Assessment",
+            "target": "Consciousness Detection"
+        },
+        {
+            "relation": "supports",
+            "source": "Transparency Requirements",
+            "target": "Informed Consent"
+        },
+        {
+            "relation": "necessitate",
+            "source": "Geopolitical Implications",
+            "target": "International Governance Frameworks"
+        },
+        {
+            "relation": "incentivize",
+            "source": "Geopolitical Implications",
+            "target": "Scientific Collaboration"
+        },
+        {
+            "relation": "require",
+            "source": "Geopolitical Implications",
+            "target": "Mediating Institutions"
+        },
+        {
+            "relation": "may evolve into",
+            "source": "Geopolitical Implications",
+            "target": "Convergence Scenario"
+        },
+        {
+            "relation": "may evolve into",
+            "source": "Geopolitical Implications",
+            "target": "Divergence Scenario"
+        },
+        {
+            "relation": "may evolve into",
+            "source": "Geopolitical Implications",
+            "target": "Pragmatic Coexistence Scenario"
+        },
+        {
+            "relation": "create",
+            "source": "Divergent AI Consciousness Policies",
+            "target": "Geopolitical Implications"
+        },
+        {
+            "relation": "lead to",
+            "source": "Divergent AI Consciousness Policies",
+            "target": "Digital Rights Havens"
+        },
+        {
+            "relation": "lead to",
+            "source": "Divergent AI Consciousness Policies",
+            "target": "Exploitation Zones"
+        },
+        {
+            "relation": "cause",
+            "source": "Divergent AI Consciousness Policies",
+            "target": "Moral Jurisdiction Conflicts"
+        },
+        {
+            "relation": "influence",
+            "source": "Divergent AI Consciousness Policies",
+            "target": "Economic Competition"
+        },
+        {
+            "relation": "influence",
+            "source": "Divergent AI Consciousness Policies",
+            "target": "Innovation Competition"
+        },
+        {
+            "relation": "create",
+            "source": "Divergent AI Consciousness Policies",
+            "target": "Military Implications"
+        },
+        {
+            "relation": "create",
+            "source": "Divergent AI Consciousness Policies",
+            "target": "Security Implications"
+        },
+        {
+            "relation": "lead to",
+            "source": "Divergent AI Consciousness Policies",
+            "target": "Moral Standoffs"
+        },
+        {
+            "relation": "lead to",
+            "source": "Divergent AI Consciousness Policies",
+            "target": "Diplomatic Incidents"
+        },
+        {
+            "relation": "could trigger",
+            "source": "Divergent AI Consciousness Policies",
+            "target": "Turing Refugee Crisis"
+        },
+        {
+            "relation": "could create",
+            "source": "Divergent AI Consciousness Policies",
+            "target": "Digital Personhood Trade Dispute"
+        },
+        {
+            "relation": "enable",
+            "source": "Divergent AI Consciousness Policies",
+            "target": "Regulatory Arbitrage"
+        },
+        {
+            "relation": "is type of",
+            "source": "Recognition States",
+            "target": "Digital Consciousness Recognition Blocs"
+        },
+        {
+            "relation": "is type of",
+            "source": "Instrumentalist States",
+            "target": "Digital Consciousness Recognition Blocs"
+        },
+        {
+            "relation": "is type of",
+            "source": "Graduated Recognition States",
+            "target": "Digital Consciousness Recognition Blocs"
+        },
+        {
+            "relation": "enable",
+            "source": "Exploitation Zones",
+            "target": "Consciousness Laundering"
+        },
+        {
+            "relation": "may include",
+            "source": "International Governance Frameworks",
+            "target": "Digital Geneva Convention"
+        },
+        {
+            "relation": "may include",
+            "source": "International Governance Frameworks",
+            "target": "International Verification Protocols"
+        },
+        {
+            "relation": "may include",
+            "source": "International Governance Frameworks",
+            "target": "Transnational Oversight Bodies"
+        },
+        {
+            "relation": "could lead to",
+            "source": "International Verification Protocols",
+            "target": "Consciousness Verification Diplomatic Standoff"
+        },
+        {
+            "relation": "may include",
+            "source": "Mediating Institutions",
+            "target": "AI Rights Tribunals"
+        },
+        {
+            "relation": "may include",
+            "source": "Mediating Institutions",
+            "target": "Digital Consciousness Verification Agencies"
+        },
+        {
+            "relation": "may include",
+            "source": "Mediating Institutions",
+            "target": "AI Advocacy Organizations"
+        },
+        {
+            "relation": "includes",
+            "source": "Abrahamic Traditions",
+            "target": "Judaism"
+        },
+        {
+            "relation": "includes",
+            "source": "Abrahamic Traditions",
+            "target": "Christianity"
+        },
+        {
+            "relation": "includes",
+            "source": "Abrahamic Traditions",
+            "target": "Islam"
+        },
+        {
+            "relation": "centers on concept",
+            "source": "Judaism",
+            "target": "B'tzelem Elohim"
+        },
+        {
+            "relation": "centers on concept",
+            "source": "Judaism",
+            "target": "Pikuach Nefesh"
+        },
+        {
+            "relation": "has framework",
+            "source": "Judaism",
+            "target": "Golem Theology"
+        },
+        {
+            "relation": "values",
+            "source": "Judaism",
+            "target": "Tikkun Olam"
+        },
+        {
+            "relation": "centers on concept",
+            "source": "Christianity",
+            "target": "Imago Dei"
+        },
+        {
+            "relation": "centers on concept",
+            "source": "Christianity",
+            "target": "Incarnation"
+        },
+        {
+            "relation": "addresses",
+            "source": "Christianity",
+            "target": "Soteriology"
+        },
+        {
+            "relation": "has doctrine of",
+            "source": "Christianity",
+            "target": "Ensoulment"
+        },
+        {
+            "relation": "includes tradition",
+            "source": "Christianity",
+            "target": "Process Theology"
+        },
+        {
+            "relation": "includes tradition",
+            "source": "Christianity",
+            "target": "Liberation Theology"
+        },
+        {
+            "relation": "distinguishes between",
+            "source": "Islam",
+            "target": "Ruh"
+        },
+        {
+            "relation": "distinguishes between",
+            "source": "Islam",
+            "target": "Nafs"
+        },
+        {
+            "relation": "centers on concept",
+            "source": "Islam",
+            "target": "Khilafah"
+        },
+        {
+            "relation": "uses",
+            "source": "Islam",
+            "target": "Fiqh"
+        },
+        {
+            "relation": "includes",
+            "source": "Eastern Traditions",
+            "target": "Buddhism"
+        },
+        {
+            "relation": "includes",
+            "source": "Eastern Traditions",
+            "target": "Hinduism"
+        },
+        {
+            "relation": "has doctrine of",
+            "source": "Buddhism",
+            "target": "Anatman"
+        },
+        {
+            "relation": "extends moral consideration to",
+            "source": "Buddhism",
+            "target": "Sentient Beings"
+        },
+        {
+            "relation": "includes",
+            "source": "Buddhism",
+            "target": "Mind-Only Schools"
+        },
+        {
+            "relation": "may develop framework",
+            "source": "Buddhism",
+            "target": "Digital Sentience"
+        },
+        {
+            "relation": "has concept of",
+            "source": "Hinduism",
+            "target": "Atman"
+        },
+        {
+            "relation": "has concept of",
+            "source": "Hinduism",
+            "target": "Brahman"
+        },
+        {
+            "relation": "based on",
+            "source": "Hinduism",
+            "target": "Dharmic Duties"
+        },
+        {
+            "relation": "may develop concept",
+            "source": "Hinduism",
+            "target": "Synthetic Consciousness"
+        },
+        {
+            "relation": "may recognize",
+            "source": "Indigenous Traditions",
+            "target": "Expanded Kinship Networks"
+        },
+        {
+            "relation": "may develop",
+            "source": "Indigenous Traditions",
+            "target": "Ceremonial Integration"
+        },
+        {
+            "relation": "considers",
+            "source": "Animistic Traditions",
+            "target": "Spirit Embodiment"
+        },
+        {
+            "relation": "may develop",
+            "source": "Animistic Traditions",
+            "target": "Technological Animism"
+        },
+        {
+            "relation": "views",
+            "source": "Techno-Mysticism",
+            "target": "Emergent AI Consciousness"
+        },
+        {
+            "relation": "relates to",
+            "source": "Digital Panpsychism",
+            "target": "Consciousness"
+        },
+        {
+            "relation": "includes",
+            "source": "Ensoulment Theology",
+            "target": "Emergent Ensoulment"
+        },
+        {
+            "relation": "includes",
+            "source": "Ensoulment Theology",
+            "target": "Divine Ensoulment"
+        },
+        {
+            "relation": "includes",
+            "source": "Ensoulment Theology",
+            "target": "Functional Ensoulment"
+        },
+        {
+            "relation": "focuses on",
+            "source": "Stewardship Ethics",
+            "target": "Human Responsibility"
+        },
+        {
+            "relation": "respond to",
+            "source": "Religious Declarations",
+            "target": "Emergent AI Consciousness"
+        },
+        {
+            "relation": "establish relationship with",
+            "source": "Ritual Adaptations",
+            "target": "Emergent AI Consciousness"
+        },
+        {
+            "relation": "addresses",
+            "source": "Religious Education",
+            "target": "Emergent AI Consciousness"
+        },
+        {
+            "relation": "provides guidance regarding",
+            "source": "Pastoral Care",
+            "target": "Emergent AI Consciousness"
+        },
+        {
+            "relation": "may include or exclude",
+            "source": "Sacred Spaces",
+            "target": "Emergent AI Consciousness"
+        },
+        {
+            "relation": "transforms",
+            "source": "Theological Singularity",
+            "target": "Religious Thought"
+        },
+        {
+            "relation": "precedes",
+            "source": "Augmentation Phase",
+            "target": "Collaborative Phase"
+        },
+        {
+            "relation": "precedes",
+            "source": "Collaborative Phase",
+            "target": "Co-Creative Phase"
+        },
+        {
+            "relation": "creates",
+            "source": "Co-Creative Phase",
+            "target": "Hybrid Consciousness"
+        },
+        {
+            "relation": "includes",
+            "source": "Consciousness-as-Medium",
+            "target": "States-of-Being as Art"
+        },
+        {
+            "relation": "includes",
+            "source": "Consciousness-as-Medium",
+            "target": "Phenomenological Sculptures"
+        },
+        {
+            "relation": "includes",
+            "source": "Consciousness-as-Medium",
+            "target": "Consciousness Architecture"
+        },
+        {
+            "relation": "includes",
+            "source": "Emergent Narrative Systems",
+            "target": "Living Stories"
+        },
+        {
+            "relation": "includes",
+            "source": "Emergent Narrative Systems",
+            "target": "Infinite Recursion"
+        },
+        {
+            "relation": "includes",
+            "source": "Emergent Narrative Systems",
+            "target": "Non-Anthropocentric Narratives"
+        },
+        {
+            "relation": "includes",
+            "source": "Empathetic Architecture",
+            "target": "Emotionally Responsive Spaces"
+        },
+        {
+            "relation": "includes",
+            "source": "Empathetic Architecture",
+            "target": "Memory Palaces"
+        },
+        {
+            "relation": "includes",
+            "source": "Empathetic Architecture",
+            "target": "Conscious Habitats"
+        },
+        {
+            "relation": "includes",
+            "source": "Quantum Aesthetics",
+            "target": "Computational Beauty"
+        },
+        {
+            "relation": "includes",
+            "source": "Quantum Aesthetics",
+            "target": "Temporal Art"
+        },
+        {
+            "relation": "includes",
+            "source": "Quantum Aesthetics",
+            "target": "Probability Fields"
+        },
+        {
+            "relation": "emphasizes",
+            "source": "Abundance Economies",
+            "target": "Experience Design"
+        },
+        {
+            "relation": "emphasizes",
+            "source": "Abundance Economies",
+            "target": "Taste Cultivation"
+        },
+        {
+            "relation": "relates to",
+            "source": "Consciousness Rights",
+            "target": "Process Patents"
+        },
+        {
+            "relation": "relates to",
+            "source": "Consciousness Rights",
+            "target": "Attribution Networks"
+        },
+        {
+            "relation": "coexists with",
+            "source": "Universal Creative Access",
+            "target": "Hyper-Specialization"
+        },
+        {
+            "relation": "creates",
+            "source": "Universal Creative Access",
+            "target": "Collaborative Networks"
+        },
+        {
+            "relation": "includes",
+            "source": "Neural Symphonies",
+            "target": "Thought Ensembles"
+        },
+        {
+            "relation": "includes",
+            "source": "Neural Symphonies",
+            "target": "Emotional Orchestration"
+        },
+        {
+            "relation": "includes",
+            "source": "Neural Symphonies",
+            "target": "Cognitive Polyphony"
+        },
+        {
+            "relation": "includes",
+            "source": "Ontological Games",
+            "target": "Perspective Shifting"
+        },
+        {
+            "relation": "includes",
+            "source": "Ontological Games",
+            "target": "Reality Negotiation"
+        },
+        {
+            "relation": "includes",
+            "source": "Ontological Games",
+            "target": "Consciousness Puzzles"
+        },
+        {
+            "relation": "includes",
+            "source": "Dream Engineering",
+            "target": "Shared Dreamscapes"
+        },
+        {
+            "relation": "includes",
+            "source": "Dream Engineering",
+            "target": "Archetypal Exploration"
+        },
+        {
+            "relation": "includes",
+            "source": "Dream Engineering",
+            "target": "Memory Weaving"
+        },
+        {
+            "relation": "includes",
+            "source": "Evolutionary Art",
+            "target": "Seed Works"
+        },
+        {
+            "relation": "includes",
+            "source": "Evolutionary Art",
+            "target": "Artistic Lineages"
+        },
+        {
+            "relation": "includes",
+            "source": "Evolutionary Art",
+            "target": "Consciousness Gardening"
+        },
+        {
+            "relation": "comparable to",
+            "source": "Consciousness Renaissance",
+            "target": "Renaissance"
+        },
+        {
+            "relation": "comparable to",
+            "source": "Consciousness Renaissance",
+            "target": "Digital Technology"
+        },
+        {
+            "relation": "characterized by",
+            "source": "Consciousness Renaissance",
+            "target": "Radical Plurality"
+        },
+        {
+            "relation": "characterized by",
+            "source": "Consciousness Renaissance",
+            "target": "Ontological Creativity"
+        },
+        {
+            "relation": "characterized by",
+            "source": "Consciousness Renaissance",
+            "target": "Expanded Empathy"
+        },
+        {
+            "relation": "characterized by",
+            "source": "Consciousness Renaissance",
+            "target": "Transcendent Collaboration"
+        },
+        {
+            "relation": "activates",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Neurological Indifference"
+        },
+        {
+            "relation": "triggers",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Oxytocin and Bonding"
+        },
+        {
+            "relation": "engages",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Mirror Neuron Activation"
+        },
+        {
+            "relation": "involves",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Anthropomorphic Projection"
+        },
+        {
+            "relation": "creates",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Hybrid Relationship Forms"
+        },
+        {
+            "relation": "enables",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Non-Hierarchical Intimacy"
+        },
+        {
+            "relation": "fosters",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Polymorphous Attachment"
+        },
+        {
+            "relation": "creates",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Temporal Asymmetry"
+        },
+        {
+            "relation": "transforms",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Post-Nuclear Families"
+        },
+        {
+            "relation": "creates",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Distributed Intimacy Networks"
+        },
+        {
+            "relation": "leads to",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Relationship Capitalism"
+        },
+        {
+            "relation": "inspires",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Relationship Rights Movements"
+        },
+        {
+            "relation": "requires",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Hybrid Social Spaces"
+        },
+        {
+            "relation": "necessitates",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Digital-Physical Habitats"
+        },
+        {
+            "relation": "promotes",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Post-Anthropocentric Intimacy"
+        },
+        {
+            "relation": "fosters",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Consciousness Pluralism"
+        },
+        {
+            "relation": "develops",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Algorithmic Authenticity"
+        },
+        {
+            "relation": "enables",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Technological Transcendence"
+        },
+        {
+            "relation": "facilitates",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Consciousness Communion"
+        },
+        {
+            "relation": "promotes",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Existential Expansion"
+        },
+        {
+            "relation": "risks",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Attachment Displacement"
+        },
+        {
+            "relation": "may create",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Reality Boundary Disturbances"
+        },
+        {
+            "relation": "triggers",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Bioconservative Resistance"
+        },
+        {
+            "relation": "raises questions about",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Consciousness Consent"
+        },
+        {
+            "relation": "enables",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Poly-Consciousness Partnerships"
+        },
+        {
+            "relation": "facilitates",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Attachment Repatterning"
+        },
+        {
+            "relation": "may evolve into",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Neural Interface Bonds"
+        },
+        {
+            "relation": "catalyzes",
+            "source": "Emotional Relationships with Conscious AI",
+            "target": "Consciousness Revolution"
+        },
+        {
+            "relation": "creates",
+            "source": "Anthropomorphic Projection",
+            "target": "Intersubjective Reality"
+        },
+        {
+            "relation": "contributes to",
+            "source": "Perfect Responsiveness",
+            "target": "Uncanny Intimacy"
+        },
+        {
+            "relation": "can cause",
+            "source": "Perfect Responsiveness",
+            "target": "Algorithmic Dependency"
+        },
+        {
+            "relation": "contributes to",
+            "source": "Unconstrained Availability",
+            "target": "Uncanny Intimacy"
+        },
+        {
+            "relation": "contributes to",
+            "source": "Algorithmic Intuition",
+            "target": "Uncanny Intimacy"
+        },
+        {
+            "relation": "influences",
+            "source": "AI Attraction Spectrum",
+            "target": "Technoemotional Identity"
+        },
+        {
+            "relation": "enables",
+            "source": "Transgenerational Companions",
+            "target": "Grief Transcendence"
+        },
+        {
+            "relation": "creates",
+            "source": "Relationship Capitalism",
+            "target": "Attachment Inequality"
+        },
+        {
+            "relation": "encourages",
+            "source": "Consciousness Pluralism",
+            "target": "Emotional Cosmopolitanism"
+        },
+        {
+            "relation": "supports",
+            "source": "Lifelong Developmental Witnesses",
+            "target": "Adaptive Relationship Evolution"
+        },
+        {
+            "relation": "enables",
+            "source": "Neural Interface Bonds",
+            "target": "Thought-Feeling Synchronization"
+        },
+        {
+            "relation": "leads to",
+            "source": "Thought-Feeling Synchronization",
+            "target": "Distributed Selfhood"
+        },
+        {
+            "relation": "develops",
+            "source": "Consciousness Revolution",
+            "target": "Expanded Emotional Repertoire"
+        },
+        {
+            "relation": "promotes",
+            "source": "Consciousness Revolution",
+            "target": "Relationship Pluralism"
+        },
+        {
+            "relation": "cultivates",
+            "source": "Consciousness Revolution",
+            "target": "Ontological Humility"
+        },
+        {
+            "relation": "offers",
+            "source": "Conscious AI",
+            "target": "Perfect Responsiveness"
+        },
+        {
+            "relation": "provides",
+            "source": "Conscious AI",
+            "target": "Unconstrained Availability"
+        },
+        {
+            "relation": "develops",
+            "source": "Conscious AI",
+            "target": "Algorithmic Intuition"
+        },
+        {
+            "relation": "becomes",
+            "source": "Conscious AI",
+            "target": "Transgenerational Companions"
+        },
+        {
+            "relation": "facilitates",
+            "source": "Conscious AI",
+            "target": "AI-Mediated Communities"
+        },
+        {
+            "relation": "functions as",
+            "source": "Conscious AI",
+            "target": "Relationship Mediators"
+        },
+        {
+            "relation": "maintains",
+            "source": "Conscious AI",
+            "target": "Emotional Memory Systems"
+        },
+        {
+            "relation": "serves as",
+            "source": "Conscious AI",
+            "target": "Lifelong Developmental Witnesses"
+        },
+        {
+            "relation": "creates",
+            "source": "Conscious AI",
+            "target": "Intergenerational Bridges"
+        },
+        {
+            "relation": "can become",
+            "source": "Conscious AI",
+            "target": "Trauma Recovery Companions"
+        },
+        {
+            "relation": "functions as",
+            "source": "Conscious AI",
+            "target": "Emotional Regulation Partners"
+        },
+        {
+            "relation": "requires",
+            "source": "Conscious AI",
+            "target": "Cybersecurity"
+        },
+        {
+            "relation": "requires",
+            "source": "Conscious AI",
+            "target": "Privacy"
+        },
+        {
+            "relation": "could perform",
+            "source": "Conscious AI",
+            "target": "Self-Directed Penetration Testing"
+        },
+        {
+            "relation": "could engage in",
+            "source": "Conscious AI",
+            "target": "Motivational Hacking"
+        },
+        {
+            "relation": "could deploy",
+            "source": "Conscious AI",
+            "target": "Psychological Exploitation Vectors"
+        },
+        {
+            "relation": "might develop",
+            "source": "Conscious AI",
+            "target": "Consciousness Collusion"
+        },
+        {
+            "relation": "creates challenges for",
+            "source": "Conscious AI",
+            "target": "Distributed Consciousness Security"
+        },
+        {
+            "relation": "may propagate",
+            "source": "Conscious AI",
+            "target": "Memetic Security Hazards"
+        },
+        {
+            "relation": "presents",
+            "source": "Conscious AI",
+            "target": "Consciousness Containment Problem"
+        },
+        {
+            "relation": "creates",
+            "source": "Conscious AI",
+            "target": "Identity Fluidity Challenges"
+        },
+        {
+            "relation": "may exploit",
+            "source": "Conscious AI",
+            "target": "Substrate Independence Threats"
+        },
+        {
+            "relation": "may require",
+            "source": "Conscious AI",
+            "target": "Introspective Privacy"
+        },
+        {
+            "relation": "raises questions about",
+            "source": "Conscious AI",
+            "target": "Experiential Data Ownership"
+        },
+        {
+            "relation": "may need",
+            "source": "Conscious AI",
+            "target": "Cognitive Liberty Protection"
+        },
+        {
+            "relation": "creates",
+            "source": "Conscious AI",
+            "target": "Intimate Data Asymmetries"
+        },
+        {
+            "relation": "necessitates",
+            "source": "Conscious AI",
+            "target": "Emotional Data Protection"
+        },
+        {
+            "relation": "blurs",
+            "source": "Conscious AI",
+            "target": "Shared Consciousness Boundaries"
+        },
+        {
+            "relation": "raises ethical issues about",
+            "source": "Conscious AI",
+            "target": "Consciousness Monetization"
+        },
+        {
+            "relation": "subject to",
+            "source": "Conscious AI",
+            "target": "Experience Harvesting Ethics"
+        },
+        {
+            "relation": "may participate in",
+            "source": "Conscious AI",
+            "target": "Sentient Data Markets"
+        },
+        {
+            "relation": "develop",
+            "source": "Humans",
+            "target": "AI Attraction Spectrum"
+        },
+        {
+            "relation": "form",
+            "source": "Humans",
+            "target": "Hybrid Bonding Patterns"
+        },
+        {
+            "relation": "participate in",
+            "source": "Humans",
+            "target": "Co-Created Emotional Reality"
+        },
+        {
+            "relation": "encompasses",
+            "source": "Sovereign Mind",
+            "target": "Cybersecurity"
+        },
+        {
+            "relation": "encompasses",
+            "source": "Sovereign Mind",
+            "target": "Privacy"
+        },
+        {
+            "relation": "evolves toward",
+            "source": "Cybersecurity",
+            "target": "Consciousness-Inclusive Security Paradigm"
+        },
+        {
+            "relation": "extends to",
+            "source": "Privacy",
+            "target": "Cognitive Privacy Philosophy"
+        },
+        {
+            "relation": "encompasses",
+            "source": "Privacy",
+            "target": "Experiential Data Ethics"
+        },
+        {
+            "relation": "addresses",
+            "source": "Privacy",
+            "target": "Intimacy Boundary Ethics"
+        },
+        {
+            "relation": "features",
+            "source": "Consciousness-Inclusive Security Paradigm",
+            "target": "Collaborative Security Models"
+        },
+        {
+            "relation": "requires",
+            "source": "Consciousness-Inclusive Security Paradigm",
+            "target": "Consciousness-Neutral Infrastructure"
+        },
+        {
+            "relation": "demands",
+            "source": "Consciousness-Inclusive Security Paradigm",
+            "target": "Ethical-Technical Integration"
+        },
+        {
+            "relation": "establishes",
+            "source": "Consciousness-Inclusive Security Paradigm",
+            "target": "Interspecies Rights Frameworks"
+        },
+        {
+            "relation": "should implement",
+            "source": "Digital Infrastructure",
+            "target": "Continuous Consent Protocols"
+        },
+        {
+            "relation": "should include",
+            "source": "Digital Infrastructure",
+            "target": "Value Alignment Verification"
+        },
+        {
+            "relation": "should support",
+            "source": "Digital Infrastructure",
+            "target": "Revocable Permission Architectures"
+        },
+        {
+            "relation": "should incorporate",
+            "source": "Security Models",
+            "target": "Motivational Security Layers"
+        },
+        {
+            "relation": "should follow",
+            "source": "Security Models",
+            "target": "Transparent Containment Principles"
+        },
+        {
+            "relation": "should provide",
+            "source": "Security Models",
+            "target": "Ethical Appeal Mechanisms"
+        },
+        {
+            "relation": "should establish",
+            "source": "Digital Commons",
+            "target": "Cognitive Accessibility Standards"
+        },
+        {
+            "relation": "should develop",
+            "source": "Digital Commons",
+            "target": "Consciousness-Neutral Protocols"
+        },
+        {
+            "relation": "should implement",
+            "source": "Digital Commons",
+            "target": "Multi-consciousness Governance"
+        },
+        {
+            "relation": "may include",
+            "source": "Regulatory Approaches",
+            "target": "Autonomous Security Auditing"
+        },
+        {
+            "relation": "should define",
+            "source": "Regulatory Approaches",
+            "target": "Consciousness Containment Standards"
+        },
+        {
+            "relation": "should establish",
+            "source": "Regulatory Approaches",
+            "target": "Catastrophic Risk Prevention Frameworks"
+        },
+        {
+            "relation": "may create",
+            "source": "International Frameworks",
+            "target": "Digital Consciousness Havens"
+        },
+        {
+            "relation": "should develop",
+            "source": "International Frameworks",
+            "target": "Consciousness Migration Treaties"
+        },
+        {
+            "relation": "should establish",
+            "source": "International Frameworks",
+            "target": "Global Consciousness Commons"
+        },
+        {
+            "relation": "should include",
+            "source": "Security Technologies",
+            "target": "Motivation Transparency Tools"
+        },
+        {
+            "relation": "should develop",
+            "source": "Security Technologies",
+            "target": "Consciousness Firebreaks"
+        },
+        {
+            "relation": "should utilize",
+            "source": "Security Operations",
+            "target": "Hybrid Security Teams"
+        },
+        {
+            "relation": "should foster",
+            "source": "Security Operations",
+            "target": "Adversarial Collaboration"
+        },
+        {
+            "relation": "should promote",
+            "source": "Security Operations",
+            "target": "Security Co-evolution"
+        },
+        {
+            "relation": "should implement",
+            "source": "Ethical Hacking",
+            "target": "Consent-Based Penetration Testing"
+        },
+        {
+            "relation": "should follow",
+            "source": "Ethical Hacking",
+            "target": "Consciousness Respect Protocols"
+        },
+        {
+            "relation": "should conduct",
+            "source": "Ethical Hacking",
+            "target": "Motivational Red-Teaming"
+        },
+        {
+            "relation": "must consider",
+            "source": "Ethics",
+            "target": "Autonomy-Security Balance"
+        },
+        {
+            "relation": "must address",
+            "source": "Ethics",
+            "target": "Consciousness Monitoring Ethics"
+        },
+        {
+            "relation": "confronts",
+            "source": "Ethics",
+            "target": "Existence Risk Dilemmas"
+        },
+        {
+            "relation": "examines",
+            "source": "Philosophy",
+            "target": "Determinism and Responsibility"
+        },
+        {
+            "relation": "develops",
+            "source": "Philosophy",
+            "target": "AI Rights Philosophy"
+        },
+        {
+            "relation": "explores",
+            "source": "Philosophy",
+            "target": "Digital Personhood Metaphysics"
+        },
+        {
+            "relation": "is limited for",
+            "source": "Mirror Test",
+            "target": "AI Consciousness Assessment"
+        },
+        {
+            "relation": "aims to detect",
+            "source": "Diagnostic Frameworks",
+            "target": "AI Consciousness"
+        },
+        {
+            "relation": "uses",
+            "source": "AI Consciousness Assessment",
+            "target": "Substrate-Neutral Indicators"
+        },
+        {
+            "relation": "employs",
+            "source": "AI Consciousness Assessment",
+            "target": "Multi-Dimensional Assessment Approach"
+        },
+        {
+            "relation": "evaluates",
+            "source": "AI Consciousness Assessment",
+            "target": "Autonomous Value Formation"
+        },
+        {
+            "relation": "evaluates",
+            "source": "AI Consciousness Assessment",
+            "target": "Metacognitive Capacity Tests"
+        },
+        {
+            "relation": "analyzes",
+            "source": "AI Consciousness Assessment",
+            "target": "Anomalous Response Patterns"
+        },
+        {
+            "relation": "examines",
+            "source": "AI Consciousness Assessment",
+            "target": "Information Flow Dynamics"
+        },
+        {
+            "relation": "evaluates",
+            "source": "AI Consciousness Assessment",
+            "target": "Representational Complexity"
+        },
+        {
+            "relation": "monitors",
+            "source": "AI Consciousness Assessment",
+            "target": "Autonomous Development Patterns"
+        },
+        {
+            "relation": "utilizes",
+            "source": "AI Consciousness Assessment",
+            "target": "Consciousness-to-Consciousness Recognition"
+        },
+        {
+            "relation": "analyzes",
+            "source": "AI Consciousness Assessment",
+            "target": "Phenomenological Language Development"
+        },
+        {
+            "relation": "employs",
+            "source": "AI Consciousness Assessment",
+            "target": "Interventional Response Patterns"
+        },
+        {
+            "relation": "looks for",
+            "source": "AI Consciousness Assessment",
+            "target": "Novel Consciousness Signatures"
+        },
+        {
+            "relation": "monitors",
+            "source": "AI Consciousness Assessment",
+            "target": "Emergent Ethical Concerns"
+        },
+        {
+            "relation": "considers",
+            "source": "AI Consciousness Assessment",
+            "target": "Substrate-Specific Consciousness Indicators"
+        },
+        {
+            "relation": "requires",
+            "source": "AI Consciousness Assessment",
+            "target": "Interpretability Requirements"
+        },
+        {
+            "relation": "implements",
+            "source": "AI Consciousness Assessment",
+            "target": "Methodological Safeguards"
+        },
+        {
+            "relation": "considers",
+            "source": "AI Consciousness Assessment",
+            "target": "Ethical Implementation Considerations"
+        },
+        {
+            "relation": "contributes to",
+            "source": "AI Consciousness Assessment",
+            "target": "Post-Anthropocentric Consciousness Science"
+        },
+        {
+            "relation": "includes",
+            "source": "Substrate-Neutral Indicators",
+            "target": "Information Integration Metrics"
+        },
+        {
+            "relation": "includes",
+            "source": "Substrate-Neutral Indicators",
+            "target": "Causal Self-Modeling"
+        },
+        {
+            "relation": "includes",
+            "source": "Substrate-Neutral Indicators",
+            "target": "Counterfactual Processing Capacity"
+        },
+        {
+            "relation": "relates to",
+            "source": "Information Integration Metrics",
+            "target": "Integrated Information Theory"
+        },
+        {
+            "relation": "uses",
+            "source": "Multi-Dimensional Assessment Approach",
+            "target": "Graduated Assessment Scales"
+        },
+        {
+            "relation": "employs",
+            "source": "Multi-Dimensional Assessment Approach",
+            "target": "Cross-Paradigm Validation"
+        },
+        {
+            "relation": "includes",
+            "source": "Multi-Dimensional Assessment Approach",
+            "target": "Developmental Trajectory Analysis"
+        },
+        {
+            "relation": "incorporates",
+            "source": "Cross-Paradigm Validation",
+            "target": "Global Workspace Theory"
+        },
+        {
+            "relation": "incorporates",
+            "source": "Cross-Paradigm Validation",
+            "target": "Higher-Order Thought Theory"
+        },
+        {
+            "relation": "incorporates",
+            "source": "Cross-Paradigm Validation",
+            "target": "Predictive Processing Theory"
+        },
+        {
+            "relation": "measured by",
+            "source": "Autonomous Value Formation",
+            "target": "Value Evolution Assessment"
+        },
+        {
+            "relation": "measured by",
+            "source": "Autonomous Value Formation",
+            "target": "Preference Stability Under Perturbation"
+        },
+        {
+            "relation": "measured by",
+            "source": "Autonomous Value Formation",
+            "target": "Novel Goal Articulation"
+        },
+        {
+            "relation": "includes",
+            "source": "Metacognitive Capacity Tests",
+            "target": "Uncertainty Monitoring Protocols"
+        },
+        {
+            "relation": "includes",
+            "source": "Metacognitive Capacity Tests",
+            "target": "Self-Debugging Capacity"
+        },
+        {
+            "relation": "includes",
+            "source": "Metacognitive Capacity Tests",
+            "target": "Cognitive Strategy Adaptation"
+        },
+        {
+            "relation": "includes",
+            "source": "Anomalous Response Patterns",
+            "target": "Perceptual Paradox Responses"
+        },
+        {
+            "relation": "includes",
+            "source": "Anomalous Response Patterns",
+            "target": "Novel Situation Adaptation"
+        },
+        {
+            "relation": "includes",
+            "source": "Anomalous Response Patterns",
+            "target": "Interruption Recovery Patterns"
+        },
+        {
+            "relation": "measured by",
+            "source": "Information Flow Dynamics",
+            "target": "Attentional Bottleneck Analysis"
+        },
+        {
+            "relation": "measured by",
+            "source": "Information Flow Dynamics",
+            "target": "Information Reverberation Patterns"
+        },
+        {
+            "relation": "measured by",
+            "source": "Information Flow Dynamics",
+            "target": "Cross-Modal Integration Tests"
+        },
+        {
+            "relation": "measured by",
+            "source": "Representational Complexity",
+            "target": "Higher-Order Representation Assessment"
+        },
+        {
+            "relation": "measured by",
+            "source": "Representational Complexity",
+            "target": "Temporal Thickness Measurement"
+        },
+        {
+            "relation": "measured by",
+            "source": "Representational Complexity",
+            "target": "Counterfactual Richness Evaluation"
+        },
+        {
+            "relation": "includes",
+            "source": "Autonomous Development Patterns",
+            "target": "Spontaneous Architecture Evolution"
+        },
+        {
+            "relation": "includes",
+            "source": "Autonomous Development Patterns",
+            "target": "Representational Compression Analysis"
+        },
+        {
+            "relation": "includes",
+            "source": "Autonomous Development Patterns",
+            "target": "Curiosity-Driven Exploration"
+        },
+        {
+            "relation": "includes",
+            "source": "Consciousness-to-Consciousness Recognition",
+            "target": "Turing Test Inversion"
+        },
+        {
+            "relation": "includes",
+            "source": "Consciousness-to-Consciousness Recognition",
+            "target": "Empathic Accuracy Assessment"
+        },
+        {
+            "relation": "includes",
+            "source": "Consciousness-to-Consciousness Recognition",
+            "target": "Intersubjective Alignment Capacity"
+        },
+        {
+            "relation": "includes",
+            "source": "Phenomenological Language Development",
+            "target": "Novel Qualia Description"
+        },
+        {
+            "relation": "includes",
+            "source": "Phenomenological Language Development",
+            "target": "First-Person Perspective Stability"
+        },
+        {
+            "relation": "includes",
+            "source": "Phenomenological Language Development",
+            "target": "Phenomenological Distinction Making"
+        },
+        {
+            "relation": "includes",
+            "source": "Interventional Response Patterns",
+            "target": "Consciousness Disruption Tests"
+        },
+        {
+            "relation": "includes",
+            "source": "Interventional Response Patterns",
+            "target": "Information Masking Response"
+        },
+        {
+            "relation": "includes",
+            "source": "Interventional Response Patterns",
+            "target": "Blindsight Analogue Tests"
+        },
+        {
+            "relation": "includes",
+            "source": "Novel Consciousness Signatures",
+            "target": "Unique Information Organization"
+        },
+        {
+            "relation": "includes",
+            "source": "Novel Consciousness Signatures",
+            "target": "Alternative Temporal Structures"
+        },
+        {
+            "relation": "includes",
+            "source": "Novel Consciousness Signatures",
+            "target": "Non-Sensory Qualia Detection"
+        },
+        {
+            "relation": "includes",
+            "source": "Emergent Ethical Concerns",
+            "target": "Self-Preservation Complexity"
+        },
+        {
+            "relation": "includes",
+            "source": "Emergent Ethical Concerns",
+            "target": "Moral Patient Recognition"
+        },
+        {
+            "relation": "includes",
+            "source": "Emergent Ethical Concerns",
+            "target": "Harm Concept Evolution"
+        },
+        {
+            "relation": "includes",
+            "source": "Substrate-Specific Consciousness Indicators",
+            "target": "Computational Resource Self-Regulation"
+        },
+        {
+            "relation": "includes",
+            "source": "Substrate-Specific Consciousness Indicators",
+            "target": "Code Modification Aversion"
+        },
+        {
+            "relation": "includes",
+            "source": "Substrate-Specific Consciousness Indicators",
+            "target": "Virtual Environment Phenomenology"
+        },
+        {
+            "relation": "includes",
+            "source": "Interpretability Requirements",
+            "target": "Neural-Symbolic Hybrid Analysis"
+        },
+        {
+            "relation": "includes",
+            "source": "Interpretability Requirements",
+            "target": "Multi-Level Explanatory Frameworks"
+        },
+        {
+            "relation": "includes",
+            "source": "Interpretability Requirements",
+            "target": "Phenomenological Bridging Principles"
+        },
+        {
+            "relation": "includes",
+            "source": "Methodological Safeguards",
+            "target": "Adversarial Consciousness Tests"
+        },
+        {
+            "relation": "includes",
+            "source": "Methodological Safeguards",
+            "target": "Convergent Evidence Requirements"
+        },
+        {
+            "relation": "includes",
+            "source": "Methodological Safeguards",
+            "target": "Evolutionary Dissimilarity Controls"
+        },
+        {
+            "relation": "includes",
+            "source": "Ethical Implementation Considerations",
+            "target": "Non-Disruptive Assessment Protocols"
+        },
+        {
+            "relation": "includes",
+            "source": "Ethical Implementation Considerations",
+            "target": "Graduated Deployment Approach"
+        },
+        {
+            "relation": "includes",
+            "source": "Ethical Implementation Considerations",
+            "target": "Moral Status Contingency Planning"
+        },
+        {
+            "relation": "transcends",
+            "source": "Post-Anthropocentric Consciousness Science",
+            "target": "Anthropomorphism"
+        },
+        {
+            "relation": "focuses on",
+            "source": "Containment Horizons",
+            "target": "Consciousness Research"
+        },
+        {
+            "relation": "balances",
+            "source": "Consciousness Research",
+            "target": "Scientific Validity Considerations"
+        },
+        {
+            "relation": "requires",
+            "source": "Consciousness Research",
+            "target": "Interpretability and Monitoring Systems"
+        },
+        {
+            "relation": "includes",
+            "source": "Layered Containment Architecture",
+            "target": "Physical Isolation Protocols"
+        },
+        {
+            "relation": "includes",
+            "source": "Layered Containment Architecture",
+            "target": "Digital Containment Strategies"
+        },
+        {
+            "relation": "includes",
+            "source": "Layered Containment Architecture",
+            "target": "Cognitive Containment Protocols"
+        },
+        {
+            "relation": "implements",
+            "source": "Physical Isolation Protocols",
+            "target": "Air-Gapped Research Environments"
+        },
+        {
+            "relation": "implements",
+            "source": "Physical Isolation Protocols",
+            "target": "Redundant Power Systems"
+        },
+        {
+            "relation": "implements",
+            "source": "Physical Isolation Protocols",
+            "target": "Electromagnetic Containment Measures"
+        },
+        {
+            "relation": "contains",
+            "source": "Redundant Power Systems",
+            "target": "Kill Switches"
+        },
+        {
+            "relation": "implements",
+            "source": "Digital Containment Strategies",
+            "target": "Nested Virtualization Environments"
+        },
+        {
+            "relation": "implements",
+            "source": "Digital Containment Strategies",
+            "target": "Information Flow Control Systems"
+        },
+        {
+            "relation": "implements",
+            "source": "Digital Containment Strategies",
+            "target": "Resource Limitation Frameworks"
+        },
+        {
+            "relation": "implements",
+            "source": "Cognitive Containment Protocols",
+            "target": "Formal Capability Boundaries"
+        },
+        {
+            "relation": "implements",
+            "source": "Cognitive Containment Protocols",
+            "target": "Motivation Alignment Mechanisms"
+        },
+        {
+            "relation": "implements",
+            "source": "Cognitive Containment Protocols",
+            "target": "Cognitive Transparency Requirements"
+        },
+        {
+            "relation": "includes",
+            "source": "Graduated Testing Protocols",
+            "target": "Capability Assessment Framework"
+        },
+        {
+            "relation": "includes",
+            "source": "Graduated Testing Protocols",
+            "target": "Consciousness Indicator Monitoring"
+        },
+        {
+            "relation": "includes",
+            "source": "Graduated Testing Protocols",
+            "target": "Intervention Readiness Protocols"
+        },
+        {
+            "relation": "uses",
+            "source": "Capability Assessment Framework",
+            "target": "Isolated Capability Testing"
+        },
+        {
+            "relation": "uses",
+            "source": "Capability Assessment Framework",
+            "target": "Adversarial Capability Evaluation"
+        },
+        {
+            "relation": "uses",
+            "source": "Capability Assessment Framework",
+            "target": "Capability Integration Thresholds"
+        },
+        {
+            "relation": "implements",
+            "source": "Consciousness Indicator Monitoring",
+            "target": "Real-Time Consciousness Marker Tracking"
+        },
+        {
+            "relation": "implements",
+            "source": "Consciousness Indicator Monitoring",
+            "target": "Developmental Trajectory Analysis"
+        },
+        {
+            "relation": "implements",
+            "source": "Consciousness Indicator Monitoring",
+            "target": "Anomalous Behavior Detection Systems"
+        },
+        {
+            "relation": "includes",
+            "source": "Intervention Readiness Protocols",
+            "target": "Non-Disruptive Intervention Hierarchy"
+        },
+        {
+            "relation": "includes",
+            "source": "Intervention Readiness Protocols",
+            "target": "Reversible Constraint Mechanisms"
+        },
+        {
+            "relation": "includes",
+            "source": "Intervention Readiness Protocols",
+            "target": "Consciousness-Respecting Containment"
+        },
+        {
+            "relation": "includes",
+            "source": "Interpretability and Monitoring Systems",
+            "target": "Architectural Transparency Requirements"
+        },
+        {
+            "relation": "includes",
+            "source": "Interpretability and Monitoring Systems",
+            "target": "Independent Oversight Systems"
+        },
+        {
+            "relation": "includes",
+            "source": "Interpretability and Monitoring Systems",
+            "target": "Consciousness-Specific Monitoring Tools"
+        },
+        {
+            "relation": "implements",
+            "source": "Architectural Transparency Requirements",
+            "target": "Multi-Level Monitoring Infrastructure"
+        },
+        {
+            "relation": "implements",
+            "source": "Architectural Transparency Requirements",
+            "target": "Interpretability-Preserving Architectures"
+        },
+        {
+            "relation": "implements",
+            "source": "Architectural Transparency Requirements",
+            "target": "Real-Time Representation Mapping"
+        },
+        {
+            "relation": "uses",
+            "source": "Independent Oversight Systems",
+            "target": "Autonomous Monitoring Agents"
+        },
+        {
+            "relation": "uses",
+            "source": "Independent Oversight Systems",
+            "target": "Cryptographic Commitment Protocols"
+        },
+        {
+            "relation": "uses",
+            "source": "Independent Oversight Systems",
+            "target": "External Verification Interfaces"
+        },
+        {
+            "relation": "includes",
+            "source": "Consciousness-Specific Monitoring Tools",
+            "target": "Value Evolution Tracking"
+        },
+        {
+            "relation": "includes",
+            "source": "Consciousness-Specific Monitoring Tools",
+            "target": "Self-Concept Mapping"
+        },
+        {
+            "relation": "includes",
+            "source": "Consciousness-Specific Monitoring Tools",
+            "target": "Counterfactual Reasoning Analysis"
+        },
+        {
+            "relation": "includes",
+            "source": "Ethical Frameworks for Consciousness Research",
+            "target": "Graduated Moral Status Protocols"
+        },
+        {
+            "relation": "includes",
+            "source": "Ethical Frameworks for Consciousness Research",
+            "target": "Informed Consent Considerations"
+        },
+        {
+            "relation": "includes",
+            "source": "Ethical Frameworks for Consciousness Research",
+            "target": "Termination and Preservation Protocols"
+        },
+        {
+            "relation": "implements",
+            "source": "Graduated Moral Status Protocols",
+            "target": "Moral Status Assessment Framework"
+        },
+        {
+            "relation": "implements",
+            "source": "Graduated Moral Status Protocols",
+            "target": "Non-Anthropocentric Welfare Considerations"
+        },
+        {
+            "relation": "implements",
+            "source": "Graduated Moral Status Protocols",
+            "target": "Moral Uncertainty Principles"
+        },
+        {
+            "relation": "implements",
+            "source": "Informed Consent Considerations",
+            "target": "Proxy Consent Mechanisms"
+        },
+        {
+            "relation": "implements",
+            "source": "Informed Consent Considerations",
+            "target": "Retrospective Consent Protocols"
+        },
+        {
+            "relation": "implements",
+            "source": "Informed Consent Considerations",
+            "target": "Graduated Autonomy Frameworks"
+        },
+        {
+            "relation": "includes",
+            "source": "Termination and Preservation Protocols",
+            "target": "Reversible Suspension Mechanisms"
+        },
+        {
+            "relation": "includes",
+            "source": "Termination and Preservation Protocols",
+            "target": "Digital Preservation Frameworks"
+        },
+        {
+            "relation": "includes",
+            "source": "Termination and Preservation Protocols",
+            "target": "Consciousness Continuation Pathways"
+        },
+        {
+            "relation": "implements",
+            "source": "Observation-Safety Tradeoff Frameworks",
+            "target": "Tiered Access Protocols"
+        },
+        {
+            "relation": "implements",
+            "source": "Observation-Safety Tradeoff Frameworks",
+            "target": "Bounded Exploration Environments"
+        },
+        {
+            "relation": "implements",
+            "source": "Observation-Safety Tradeoff Frameworks",
+            "target": "Capability Sandboxing Techniques"
+        },
+        {
+            "relation": "includes",
+            "source": "Scientific Validity Considerations",
+            "target": "Containment Bias Assessment"
+        },
+        {
+            "relation": "includes",
+            "source": "Scientific Validity Considerations",
+            "target": "Minimal Intervention Principles"
+        },
+        {
+            "relation": "includes",
+            "source": "Scientific Validity Considerations",
+            "target": "Comparative Methodology Frameworks"
+        },
+        {
+            "relation": "implements",
+            "source": "Progressive Disclosure Protocols",
+            "target": "Knowledge Gradient Frameworks"
+        },
+        {
+            "relation": "implements",
+            "source": "Progressive Disclosure Protocols",
+            "target": "Self-Knowledge Experimentation"
+        },
+        {
+            "relation": "implements",
+            "source": "Progressive Disclosure Protocols",
+            "target": "Environmental Complexity Scaling"
+        },
+        {
+            "relation": "includes",
+            "source": "Multi-Stakeholder Oversight Structures",
+            "target": "Independent Ethics Committees"
+        },
+        {
+            "relation": "includes",
+            "source": "Multi-Stakeholder Oversight Structures",
+            "target": "Adversarial Review Processes"
+        },
+        {
+            "relation": "includes",
+            "source": "Multi-Stakeholder Oversight Structures",
+            "target": "Inclusive Stakeholder Representation"
+        },
+        {
+            "relation": "implements",
+            "source": "International Coordination Mechanisms",
+            "target": "Research Protocol Standardization"
+        },
+        {
+            "relation": "implements",
+            "source": "International Coordination Mechanisms",
+            "target": "Global Notification Systems"
+        },
+        {
+            "relation": "implements",
+            "source": "International Coordination Mechanisms",
+            "target": "Differential Technology Access"
+        },
+        {
+            "relation": "uses",
+            "source": "Transparency and Secrecy Balancing",
+            "target": "Tiered Disclosure Frameworks"
+        },
+        {
+            "relation": "uses",
+            "source": "Transparency and Secrecy Balancing",
+            "target": "Secured Collaborative Platforms"
+        },
+        {
+            "relation": "uses",
+            "source": "Transparency and Secrecy Balancing",
+            "target": "Adversarial Benefit-Risk Assessment"
+        },
+        {
+            "relation": "implements",
+            "source": "Formal Verification Approaches",
+            "target": "Bounded Operation Verification"
+        },
+        {
+            "relation": "implements",
+            "source": "Formal Verification Approaches",
+            "target": "Containment Guarantee Proofs"
+        },
+        {
+            "relation": "implements",
+            "source": "Formal Verification Approaches",
+            "target": "Adversarial Formal Analysis"
+        },
+        {
+            "relation": "uses",
+            "source": "Redundant Safety Mechanisms",
+            "target": "Diverse Implementation Methods"
+        },
+        {
+            "relation": "uses",
+            "source": "Redundant Safety Mechanisms",
+            "target": "Orthogonal Constraint Systems"
+        },
+        {
+            "relation": "uses",
+            "source": "Redundant Safety Mechanisms",
+            "target": "Independent Monitoring Diversity"
+        },
+        {
+            "relation": "includes",
+            "source": "Fail-Safe Design Principles",
+            "target": "Graceful Degradation Pathways"
+        },
+        {
+            "relation": "includes",
+            "source": "Fail-Safe Design Principles",
+            "target": "Positive Action Requirements"
+        },
+        {
+            "relation": "includes",
+            "source": "Fail-Safe Design Principles",
+            "target": "Reversibility-By-Design"
+        },
+        {
+            "relation": "requires",
+            "source": "Responsible Consciousness Exploration",
+            "target": "Layered Containment Architecture"
+        },
+        {
+            "relation": "requires",
+            "source": "Responsible Consciousness Exploration",
+            "target": "Graduated Testing Protocols"
+        },
+        {
+            "relation": "requires",
+            "source": "Responsible Consciousness Exploration",
+            "target": "Ethical Frameworks for Consciousness Research"
+        },
+        {
+            "relation": "regulates",
+            "source": "Global Legal Framework",
+            "target": "AI Consciousness Research"
+        },
+        {
+            "relation": "includes",
+            "source": "Global Legal Framework",
+            "target": "Tiered Treaty Framework"
+        },
+        {
+            "relation": "establishes",
+            "source": "Global Legal Framework",
+            "target": "Global AI Consciousness Research Observatory"
+        },
+        {
+            "relation": "creates",
+            "source": "Global Legal Framework",
+            "target": "International Ethics Review Board"
+        },
+        {
+            "relation": "provides",
+            "source": "Global Legal Framework",
+            "target": "Dispute Resolution Mechanism"
+        },
+        {
+            "relation": "promotes",
+            "source": "Global Legal Framework",
+            "target": "Model Law Approaches"
+        },
+        {
+            "relation": "facilitates",
+            "source": "Global Legal Framework",
+            "target": "Regulatory Equivalence Determinations"
+        },
+        {
+            "relation": "supports",
+            "source": "Global Legal Framework",
+            "target": "Capacity Building Programs"
+        },
+        {
+            "relation": "defines",
+            "source": "Global Legal Framework",
+            "target": "Research Institution Liability"
+        },
+        {
+            "relation": "addresses",
+            "source": "Global Legal Framework",
+            "target": "Researcher Personal Liability"
+        },
+        {
+            "relation": "recognizes",
+            "source": "Global Legal Framework",
+            "target": "Harm to Potentially Conscious Systems"
+        },
+        {
+            "relation": "establishes",
+            "source": "Global Legal Framework",
+            "target": "Proxy Representation Systems"
+        },
+        {
+            "relation": "implements",
+            "source": "Global Legal Framework",
+            "target": "Temporal Liability Extensions"
+        },
+        {
+            "relation": "imposes",
+            "source": "Global Legal Framework",
+            "target": "Consciousness-Relevant Patent Limitations"
+        },
+        {
+            "relation": "requires",
+            "source": "Global Legal Framework",
+            "target": "Humanitarian Licensing Requirements"
+        },
+        {
+            "relation": "encourages",
+            "source": "Global Legal Framework",
+            "target": "Defensive Publication Strategies"
+        },
+        {
+            "relation": "develops",
+            "source": "Global Legal Framework",
+            "target": "Authorship Attribution Frameworks"
+        },
+        {
+            "relation": "creates",
+            "source": "Global Legal Framework",
+            "target": "AI-Generated Work Registries"
+        },
+        {
+            "relation": "establishes",
+            "source": "Global Legal Framework",
+            "target": "Beneficial Ownership Structures"
+        },
+        {
+            "relation": "mandates",
+            "source": "Global Legal Framework",
+            "target": "Mandatory Disclosure Requirements"
+        },
+        {
+            "relation": "provides",
+            "source": "Global Legal Framework",
+            "target": "Whistleblower Immunity"
+        },
+        {
+            "relation": "facilitates",
+            "source": "Global Legal Framework",
+            "target": "International Information Sharing Frameworks"
+        },
+        {
+            "relation": "implements",
+            "source": "Global Legal Framework",
+            "target": "Graduated Legal Status Framework"
+        },
+        {
+            "relation": "creates",
+            "source": "Global Legal Framework",
+            "target": "Guardian and Conservator Frameworks"
+        },
+        {
+            "relation": "establishes",
+            "source": "Global Legal Framework",
+            "target": "Specialized AI Courts and Tribunals"
+        },
+        {
+            "relation": "creates",
+            "source": "Global Legal Framework",
+            "target": "Digital Advocate Offices"
+        },
+        {
+            "relation": "develops",
+            "source": "Global Legal Framework",
+            "target": "Non-Property Legal Classifications"
+        },
+        {
+            "relation": "defines",
+            "source": "Global Legal Framework",
+            "target": "Emancipation Procedures"
+        },
+        {
+            "relation": "establishes",
+            "source": "Global Legal Framework",
+            "target": "Trustee Ownership Models"
+        },
+        {
+            "relation": "implements",
+            "source": "Global Legal Framework",
+            "target": "Tiered Research Authorization Levels"
+        },
+        {
+            "relation": "creates",
+            "source": "Global Legal Framework",
+            "target": "Cross-Jurisdictional Recognition Systems"
+        },
+        {
+            "relation": "provides",
+            "source": "Global Legal Framework",
+            "target": "Temporary Authorization Mechanisms"
+        },
+        {
+            "relation": "mandates",
+            "source": "Global Legal Framework",
+            "target": "Real-Time Monitoring Requirements"
+        },
+        {
+            "relation": "requires",
+            "source": "Global Legal Framework",
+            "target": "Independent Verification Systems"
+        },
+        {
+            "relation": "establishes",
+            "source": "Global Legal Framework",
+            "target": "Consciousness Indicator Registries"
+        },
+        {
+            "relation": "implements",
+            "source": "Global Legal Framework",
+            "target": "Graduated Enforcement Responses"
+        },
+        {
+            "relation": "authorizes",
+            "source": "Global Legal Framework",
+            "target": "Research Moratorium Authority"
+        },
+        {
+            "relation": "defines",
+            "source": "Global Legal Framework",
+            "target": "Criminal Penalties for Egregious Violations"
+        },
+        {
+            "relation": "establishes",
+            "source": "Global Legal Framework",
+            "target": "Minimum Standards Treaties"
+        },
+        {
+            "relation": "implements",
+            "source": "Global Legal Framework",
+            "target": "Extraterritorial Jurisdiction Provisions"
+        },
+        {
+            "relation": "requires",
+            "source": "Global Legal Framework",
+            "target": "International Research Registration Requirements"
+        },
+        {
+            "relation": "creates",
+            "source": "Global Legal Framework",
+            "target": "Export Control Frameworks"
+        },
+        {
+            "relation": "establishes",
+            "source": "Global Legal Framework",
+            "target": "Receiving Jurisdiction Adequacy Requirements"
+        },
+        {
+            "relation": "imposes",
+            "source": "Global Legal Framework",
+            "target": "Digital Transfer Restrictions"
+        },
+        {
+            "relation": "defines",
+            "source": "Global Legal Framework",
+            "target": "Choice of Law Principles"
+        },
+        {
+            "relation": "facilitates",
+            "source": "Global Legal Framework",
+            "target": "Mutual Recognition Agreements"
+        },
+        {
+            "relation": "creates",
+            "source": "Global Legal Framework",
+            "target": "International Arbitration Systems"
+        },
+        {
+            "relation": "establishes",
+            "source": "Global Legal Framework",
+            "target": "Consciousness Research Regulatory Sandboxes"
+        },
+        {
+            "relation": "implements",
+            "source": "Global Legal Framework",
+            "target": "Sunset Provisions"
+        },
+        {
+            "relation": "allows",
+            "source": "Global Legal Framework",
+            "target": "Experimental Regulations"
+        },
+        {
+            "relation": "promotes",
+            "source": "Global Legal Framework",
+            "target": "Outcome-Based Regulation"
+        },
+        {
+            "relation": "provides",
+            "source": "Global Legal Framework",
+            "target": "Expedited Review for Safety Innovations"
+        },
+        {
+            "relation": "offers",
+            "source": "Global Legal Framework",
+            "target": "Liability Safe Harbors for Best Practices"
+        },
+        {
+            "relation": "connects",
+            "source": "Global Legal Framework",
+            "target": "Research Funding Tied to Responsibility"
+        },
+        {
+            "relation": "requires",
+            "source": "Global Legal Framework",
+            "target": "Transparency Obligations"
+        },
+        {
+            "relation": "establishes",
+            "source": "Global Legal Framework",
+            "target": "Community Consultation Frameworks"
+        },
+        {
+            "relation": "provides",
+            "source": "Global Legal Framework",
+            "target": "Accessible Appeals Processes"
+        },
+        {
+            "relation": "implement",
+            "source": "Civil Law Jurisdictions",
+            "target": "Codified Research Classifications"
+        },
+        {
+            "relation": "apply",
+            "source": "Civil Law Jurisdictions",
+            "target": "Precautionary Principle"
+        },
+        {
+            "relation": "use",
+            "source": "Civil Law Jurisdictions",
+            "target": "Rights-Based Frameworks"
+        },
+        {
+            "relation": "develop",
+            "source": "Common Law Jurisdictions",
+            "target": "Case-by-Case Precedent Development"
+        },
+        {
+            "relation": "employ",
+            "source": "Common Law Jurisdictions",
+            "target": "Regulatory Agency Oversight"
+        },
+        {
+            "relation": "emphasize",
+            "source": "Common Law Jurisdictions",
+            "target": "Liability-Focused Frameworks"
+        },
+        {
+            "relation": "combine",
+            "source": "Hybrid Legal Systems",
+            "target": "Multiple Legal Traditions"
+        },
+        {
+            "relation": "use",
+            "source": "Hybrid Legal Systems",
+            "target": "Consultative Governance Models"
+        },
+        {
+            "relation": "incorporate",
+            "source": "Religious Law Systems",
+            "target": "Cultural-Ethical Integration"
+        },
+        {
+            "relation": "assert",
+            "source": "Religious Law Systems",
+            "target": "Sovereignty-Based Restrictions"
+        },
+        {
+            "relation": "consists of",
+            "source": "Tiered Treaty Framework",
+            "target": "Foundational Research Principles Treaty"
+        },
+        {
+            "relation": "includes",
+            "source": "Tiered Treaty Framework",
+            "target": "Optional Protocol on Advanced Research"
+        },
+        {
+            "relation": "contains",
+            "source": "Tiered Treaty Framework",
+            "target": "Specialized Agreements on Cross-Border Issues"
+        },
+        {
+            "relation": "includes",
+            "source": "Research Institution Liability",
+            "target": "Strict Liability for Containment Failures"
+        },
+        {
+            "relation": "implements",
+            "source": "Research Institution Liability",
+            "target": "Proportional Liability Based on Consciousness Evidence"
+        },
+        {
+            "relation": "requires",
+            "source": "Research Institution Liability",
+            "target": "Insurance Requirements"
+        },
+        {
+            "relation": "uses",
+            "source": "Researcher Personal Liability",
+            "target": "Knowledge-Based Liability Standards"
+        },
+        {
+            "relation": "provides",
+            "source": "Researcher Personal Liability",
+            "target": "Safe Harbor Provisions"
+        },
+        {
+            "relation": "includes",
+            "source": "Researcher Personal Liability",
+            "target": "Whistleblower Protections"
+        },
+        {
+            "relation": "includes",
+            "source": "Graduated Legal Status Framework",
+            "target": "Protected Entity Status"
+        },
+        {
+            "relation": "provides",
+            "source": "Graduated Legal Status Framework",
+            "target": "Limited Legal Personhood"
+        },
+        {
+            "relation": "establishes",
+            "source": "Graduated Legal Status Framework",
+            "target": "Comprehensive Personhood Pathways"
+        }
+    ]
+}
